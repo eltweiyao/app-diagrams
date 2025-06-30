@@ -326,7 +326,7 @@
           <mxGeometry x="1040" y="44" width="100" height="676" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="45" y="68" width="10" height="232" as="geometry" />
+          <mxGeometry x="45" y="68" width="10" height="272" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
           <mxGeometry x="50" y="105" width="10" height="10" as="geometry" />
@@ -341,48 +341,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="50" y="189" width="10" height="10" as="geometry" />
+          <mxGeometry x="50" y="190" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-56" value="保存会员台账支付订单信息，状态处理中" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" edge="1">
           <mxGeometry x="0.0053" relative="1" as="geometry">
-            <mxPoint x="55" y="163" as="sourcePoint" />
+            <mxPoint x="55" y="164" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="193" />
+              <mxPoint x="85" y="194" />
             </Array>
-            <mxPoint x="60" y="193" as="targetPoint" />
+            <mxPoint x="60" y="194" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-60" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="50" y="274" width="10" height="10" as="geometry" />
+          <mxGeometry x="50" y="275" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-61" value="修改台账支付订单状态" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-60" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="247" as="sourcePoint" />
+            <mxPoint x="55" y="248" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="277" />
+              <mxPoint x="85" y="278" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="50" y="320" width="10" height="11" as="geometry" />
+          <mxGeometry x="50" y="321" width="10" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-63" value="根据参与方进行记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="293" as="sourcePoint" />
+        <mxCell id="9qszzygUhYIYIlCA4tKh-63" value="成功则记收款方帐，失败则回滚付款方帐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-62" edge="1">
+          <mxGeometry x="0.0118" relative="1" as="geometry">
+            <mxPoint x="55" y="294" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="323" />
+              <mxPoint x="85" y="324" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-65" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="45" y="380" width="10" height="194" as="geometry" />
+          <mxGeometry x="45" y="381" width="10" height="194" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-66" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-65" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="360" as="sourcePoint" />
+            <mxPoint x="50" y="361" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="390" />
+              <mxPoint x="80" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -392,56 +393,56 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-68" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="50" y="418" width="10" height="146" as="geometry" />
+          <mxGeometry x="50" y="419" width="10" height="146" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-69" value="查询所有1分钟前处理中订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="398" as="sourcePoint" />
+            <mxPoint x="55" y="399" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="428" />
+              <mxPoint x="85" y="429" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="55" y="504" width="10" height="10" as="geometry" />
+          <mxGeometry x="55" y="505" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-74" value="修改台账支付订单状态" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-73" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="480" as="sourcePoint" />
+            <mxPoint x="60" y="481" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="510" />
+              <mxPoint x="90" y="511" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="55" y="544" width="10" height="10" as="geometry" />
+          <mxGeometry x="55" y="545" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-77" value="根据参与方记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-76" edge="1">
+        <mxCell id="9qszzygUhYIYIlCA4tKh-77" value="成功则记收款方帐，失败则回滚付款方帐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-76" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="520" as="sourcePoint" />
+            <mxPoint x="60" y="521" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="550" />
+              <mxPoint x="90" y="551" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="45" y="587" width="10" height="74" as="geometry" />
+          <mxGeometry x="45" y="588" width="10" height="74" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-81" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
-          <mxGeometry x="50" y="617" width="10" height="24" as="geometry" />
+          <mxGeometry x="50" y="618" width="10" height="24" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-82" value="查询会员台账支付订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-81" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="597" as="sourcePoint" />
+            <mxPoint x="55" y="598" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="627" />
+              <mxPoint x="85" y="628" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="9qszzygUhYIYIlCA4tKh-48">
           <mxGeometry x="50" y="147" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-26" value="校验付款台账余额" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-25" parent="9qszzygUhYIYIlCA4tKh-48">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-26" value="校验付款方金额，并进行记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-25" parent="9qszzygUhYIYIlCA4tKh-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="123" as="sourcePoint" />
             <Array as="points">
@@ -453,15 +454,15 @@
           <mxGeometry x="1284" y="44" width="100" height="676" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-49" vertex="1">
-          <mxGeometry x="45" y="213" width="10" height="26" as="geometry" />
+          <mxGeometry x="45" y="214" width="10" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-49" vertex="1">
-          <mxGeometry x="45" y="444" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="445" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-72" value="会员台账支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="9qszzygUhYIYIlCA4tKh-49" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-184" y="471" as="targetPoint" />
-            <mxPoint x="44.999999999999545" y="472.1599999999999" as="sourcePoint" />
+            <mxPoint x="-184" y="472" as="targetPoint" />
+            <mxPoint x="44.999999999999545" y="473.1599999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-51" value="会员台账支付" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="9qszzygUhYIYIlCA4tKh-47" target="9qszzygUhYIYIlCA4tKh-50" edge="1">
@@ -471,37 +472,37 @@
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-58" value="调用建行会员台账支付(AB520N099)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="9qszzygUhYIYIlCA4tKh-57" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1095" y="259" as="sourcePoint" />
-            <mxPoint x="1285" y="259" as="targetPoint" />
+            <mxPoint x="1095" y="260" as="sourcePoint" />
+            <mxPoint x="1285" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-59" value="会员台账支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1095" y="281" as="targetPoint" />
-            <mxPoint x="1330" y="281" as="sourcePoint" />
+            <mxPoint x="1095" y="282" as="targetPoint" />
+            <mxPoint x="1330" y="282" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-64" value="会员台账支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1085" y="380.9999999999999" as="sourcePoint" />
-            <mxPoint x="929.810344827586" y="380.9999999999999" as="targetPoint" />
+            <mxPoint x="1085" y="381.9999999999999" as="sourcePoint" />
+            <mxPoint x="929.810344827586" y="381.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-71" value="调用建行通用接口查询(AB520N108)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="491.0000000000001" as="sourcePoint" />
-            <mxPoint x="1328.9999999999995" y="491.0000000000001" as="targetPoint" />
+            <mxPoint x="1100" y="492.0000000000001" as="sourcePoint" />
+            <mxPoint x="1328.9999999999995" y="492.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-79" value="会员台账支付结果查询" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="9qszzygUhYIYIlCA4tKh-78" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="929.5" y="636" as="sourcePoint" />
+            <mxPoint x="929.5" y="637" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-80" value="会员台账支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="929.5" y="695" as="targetPoint" />
-            <mxPoint x="1085" y="695" as="sourcePoint" />
+            <mxPoint x="929.5" y="696" as="targetPoint" />
+            <mxPoint x="1085" y="696" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
