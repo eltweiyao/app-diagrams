@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1886" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,7 +331,7 @@
         <mxCell id="9qszzygUhYIYIlCA4tKh-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
           <mxGeometry x="50" y="105" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-54" value="查询主子合约订单信息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-53" edge="1">
+        <mxCell id="9qszzygUhYIYIlCA4tKh-54" value="查询主子合约订单信息，校验业务单号不存在" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-53" edge="1">
           <mxGeometry x="-0.0035" relative="1" as="geometry">
             <mxPoint x="55" y="78" as="sourcePoint" />
             <Array as="points">
@@ -417,7 +417,7 @@
         <mxCell id="9qszzygUhYIYIlCA4tKh-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
           <mxGeometry x="55" y="545" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-77" value="成功则记收款方帐，失败则回滚付款方帐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-76" edge="1">
+        <mxCell id="9qszzygUhYIYIlCA4tKh-77" value="成功则对收款方记账帐，失败则回滚付款方记帐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="521" as="sourcePoint" />
             <Array as="points">
@@ -451,7 +451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-49" value="建行" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="1284" y="44" width="100" height="676" as="geometry" />
+          <mxGeometry x="1330" y="44" width="100" height="676" as="geometry" />
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-49" vertex="1">
           <mxGeometry x="45" y="214" width="10" height="26" as="geometry" />
@@ -459,7 +459,7 @@
         <mxCell id="9qszzygUhYIYIlCA4tKh-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-49" vertex="1">
           <mxGeometry x="45" y="445" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-72" value="会员台账支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="9qszzygUhYIYIlCA4tKh-49" edge="1">
+        <mxCell id="9qszzygUhYIYIlCA4tKh-72" value="会员台账支付结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="9qszzygUhYIYIlCA4tKh-49" edge="1" target="9qszzygUhYIYIlCA4tKh-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-184" y="472" as="targetPoint" />
             <mxPoint x="44.999999999999545" y="473.1599999999999" as="sourcePoint" />
@@ -488,10 +488,10 @@
             <mxPoint x="929.810344827586" y="381.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-71" value="调用建行通用接口查询(AB520N108)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
+        <mxCell id="9qszzygUhYIYIlCA4tKh-71" value="调用建行通用接口查询(AB520N108)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" edge="1" target="9qszzygUhYIYIlCA4tKh-70" source="9qszzygUhYIYIlCA4tKh-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="492.0000000000001" as="sourcePoint" />
-            <mxPoint x="1328.9999999999995" y="492.0000000000001" as="targetPoint" />
+            <mxPoint x="1329" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9qszzygUhYIYIlCA4tKh-79" value="会员台账支付结果查询" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="9qszzygUhYIYIlCA4tKh-78" edge="1">
