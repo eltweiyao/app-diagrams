@@ -442,7 +442,7 @@
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="9qszzygUhYIYIlCA4tKh-48">
           <mxGeometry x="50" y="147" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-26" value="校验付款方金额，并进行记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-25" parent="9qszzygUhYIYIlCA4tKh-48">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-26" value="校验参与方台账信息，并对付款方进行记账" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-25" parent="9qszzygUhYIYIlCA4tKh-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="123" as="sourcePoint" />
             <Array as="points">
