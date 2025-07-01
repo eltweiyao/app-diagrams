@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.1.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1887" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1561" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1257,9 +1257,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-237" value="调用建行通用结果查询接口(AB520N108)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="fuxBlCpD1P7hH6LeHtpS-234">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
             <mxPoint x="5410.000000000001" y="400.9999999999999" as="sourcePoint" />
             <mxPoint x="5652.999999999999" y="400.9999999999999" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-245" value="会员提现结果查询" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-244" parent="1" source="fuxBlCpD1P7hH6LeHtpS-217">
@@ -1274,12 +1275,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-251" value="账户中台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="6030" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="6030" y="40" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-253" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-251">
-          <mxGeometry x="45" y="88" width="10" height="152" as="geometry" />
+          <mxGeometry x="45" y="88" width="10" height="262" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-254" value="代收成功调用&lt;div&gt;或每分钟查询1分钟前成功的待充值代收交易&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-253" parent="fuxBlCpD1P7hH6LeHtpS-251">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-254" value="代收成功调用&lt;div&gt;或每分钟查询1分钟前成功的待充值或充值中代收交易&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-253" parent="fuxBlCpD1P7hH6LeHtpS-251">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="68" as="sourcePoint" />
             <Array as="points">
@@ -1288,31 +1289,74 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-255" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-251">
-          <mxGeometry x="50" y="134" width="10" height="12" as="geometry" />
+          <mxGeometry x="50" y="137" width="10" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-256" value="保存会员充值订单信息，状态为处理中" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-255" parent="fuxBlCpD1P7hH6LeHtpS-251">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-256" value="保存会员充值订单信息，状态为处理中&lt;div&gt;修改代收订单状态为充值中&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-255" parent="fuxBlCpD1P7hH6LeHtpS-251">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="108" as="sourcePoint" />
+            <mxPoint x="55" y="111" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="138" />
+              <mxPoint x="85" y="141" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-260" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-251">
+          <mxGeometry x="50" y="294" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-261" value="根据状态修改充值订单结果&lt;br&gt;若成功代收订单置为充值成功，失败置为待充值" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-260" parent="fuxBlCpD1P7hH6LeHtpS-251">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="268" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-262" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-251">
+          <mxGeometry x="50" y="334" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-263" value="进行监管户和会员台账余额变动" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-262" parent="fuxBlCpD1P7hH6LeHtpS-251">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="309" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="339" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-252" value="建行" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="6290" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="6290" y="40" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-257" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-252">
-          <mxGeometry x="45" y="155" width="10" height="35" as="geometry" />
+          <mxGeometry x="45" y="158" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-258" value="调用建行收单充值接口(AB520N116)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-257" parent="1" source="fuxBlCpD1P7hH6LeHtpS-253">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-272" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-252">
+          <mxGeometry x="45" y="220" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-258" value="调用建行收单充值接口(AB520N116)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-257" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6265" y="200" as="sourcePoint" />
+            <mxPoint x="6085" y="203" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-259" value="充值结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6085" y="225" as="targetPoint" />
-            <mxPoint x="6335" y="225" as="sourcePoint" />
+            <mxPoint x="6085" y="228" as="targetPoint" />
+            <mxPoint x="6335" y="228" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-266" value="代收调用或待充值" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="6010" y="145" width="360" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-267" value="充值中" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="6010" y="240" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-273" value="调用建行通用结果查询接口(AB520N108)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-272" parent="1" source="fuxBlCpD1P7hH6LeHtpS-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6090" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-274" value="充值结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="fuxBlCpD1P7hH6LeHtpS-272" target="fuxBlCpD1P7hH6LeHtpS-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6095" y="290" as="targetPoint" />
+            <mxPoint x="6330" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
