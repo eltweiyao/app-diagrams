@@ -512,7 +512,7 @@
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-1">
           <mxGeometry x="45" y="84" width="10" height="246" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-9" value="传入参与方信息及金额进行记账（Required）" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-8" parent="fuxBlCpD1P7hH6LeHtpS-1">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-9" value="传入参与方信息及金额进行台账余额变动（Required）" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-8" parent="fuxBlCpD1P7hH6LeHtpS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="64" as="sourcePoint" />
             <Array as="points">
