@@ -740,13 +740,14 @@
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-108" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-46">
           <mxGeometry x="55" y="974" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-109" value="如果有会员台账id，则记监管户和会员台账余额变动" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-108" parent="fuxBlCpD1P7hH6LeHtpS-46">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-109" value="如果有会员台账id，记录充值订单并进行监管户和会员台账余额变动" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-108" parent="fuxBlCpD1P7hH6LeHtpS-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="945" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="90" y="945" />
               <mxPoint x="90" y="975" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-110" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-46">
@@ -884,7 +885,7 @@
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-90" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="3690" y="572" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-91" value="根据交易结果修改订单状态" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-90" parent="1">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-91" value="根据交易结果修改订单状态&lt;div&gt;如果有会员台账id且成功，记录充值订单并进行监管户和会员台账余额变动&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="fuxBlCpD1P7hH6LeHtpS-90" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3695" y="544" as="sourcePoint" />
             <Array as="points">
