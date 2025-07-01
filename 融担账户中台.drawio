@@ -417,7 +417,7 @@
         <mxCell id="9qszzygUhYIYIlCA4tKh-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="9qszzygUhYIYIlCA4tKh-48" vertex="1">
           <mxGeometry x="55" y="545" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="9qszzygUhYIYIlCA4tKh-77" value="成功则对收款方记账帐，失败则回滚付款方记帐" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-76" edge="1">
+        <mxCell id="9qszzygUhYIYIlCA4tKh-77" value="成功则进行收款方余额变动，失败则回滚付款方余额变动" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="9qszzygUhYIYIlCA4tKh-48" target="9qszzygUhYIYIlCA4tKh-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="521" as="sourcePoint" />
             <Array as="points">
@@ -575,7 +575,7 @@
         <mxCell id="fuxBlCpD1P7hH6LeHtpS-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-1">
           <mxGeometry x="50" y="311" width="10" height="9" as="geometry" />
         </mxCell>
-        <mxCell id="fuxBlCpD1P7hH6LeHtpS-24" value="给调用方返回记账结果" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-1">
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-24" value="给调用方返回处理结果" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="284" as="sourcePoint" />
             <Array as="points">
