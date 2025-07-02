@@ -1386,6 +1386,165 @@
             <mxPoint x="6330" y="399" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-281" value="账户中台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="6979" y="171" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-282" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="45" y="64" width="10" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-283" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="50" y="101" width="10" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-285" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="45" y="302" width="10" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-286" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="50" y="332" width="10" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-287" value="&lt;span style=&quot;text-align: center;&quot;&gt;锁中台主合约订单号&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;+子合约&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;业务&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;订单号&lt;/span&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-281" target="fuxBlCpD1P7hH6LeHtpS-286">
+          <mxGeometry x="-0.0035" relative="1" as="geometry">
+            <mxPoint x="55" y="312" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="342" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-288" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="55" y="381" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-289" value="根据子合约业务订单号查询订单" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-281" target="fuxBlCpD1P7hH6LeHtpS-288">
+          <mxGeometry x="-0.0048" relative="1" as="geometry">
+            <mxPoint x="60" y="351" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="381" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-290" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="55" y="584" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-291" value="更新子订单状态" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-281" target="fuxBlCpD1P7hH6LeHtpS-290">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="559" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-292" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="55" y="146" width="10" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-293" value="保存主合约订单信息，状态创建中" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-281" target="fuxBlCpD1P7hH6LeHtpS-292">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="149" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-294" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-281">
+          <mxGeometry x="55" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-295" value="更新渠道测主合约订单号" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-281" target="fuxBlCpD1P7hH6LeHtpS-294">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="203" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-296" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="6859" y="171" width="20" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-297" value="建行" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="7209" y="170" width="100" height="641" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-298" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-297">
+          <mxGeometry x="45" y="168" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-299" value="建行合约订单号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;entryX=1;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-297" target="fuxBlCpD1P7hH6LeHtpS-283">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-175" y="194" as="targetPoint" />
+            <mxPoint x="45" y="194" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-300" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-297">
+          <mxGeometry x="45" y="444" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-301" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="fuxBlCpD1P7hH6LeHtpS-297">
+          <mxGeometry x="45" y="514" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-302" value="创建结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;entryX=1;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fuxBlCpD1P7hH6LeHtpS-297">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170.00000000000023" y="537.072" as="targetPoint" />
+            <mxPoint x="44.99999999999977" y="537.0000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-303" value="创建主合约订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="fuxBlCpD1P7hH6LeHtpS-282">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="6869" y="241" as="sourcePoint" />
+            <mxPoint x="7019" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-304" value="调用主合约订单创建(&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AB520N097&lt;/span&gt;)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="fuxBlCpD1P7hH6LeHtpS-283" target="fuxBlCpD1P7hH6LeHtpS-298">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7034" y="343" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-305" value="中台主合约订单号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7024" y="419" as="sourcePoint" />
+            <mxPoint x="6869.1" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-306" value="创建子合约订单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="fuxBlCpD1P7hH6LeHtpS-285">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6868.5" y="478.00000000000045" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-307" value="中台子合约订单号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+          <mxGeometry x="0.0002" relative="1" as="geometry">
+            <mxPoint x="6869.023809523809" y="785" as="targetPoint" />
+            <mxPoint x="7024" y="785" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-308" value="子合约订单不存在" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="6959" y="570" width="320" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-309" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="7034" y="605" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-310" value="创建子合约订单 状态处理中" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="fuxBlCpD1P7hH6LeHtpS-309">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7039" y="575" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="7069" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-311" value="调用建行创建子合约订单(AB520N098)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7039" y="631" as="sourcePoint" />
+            <mxPoint x="7254" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-312" value="创建结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7039" y="650" as="targetPoint" />
+            <mxPoint x="7254" y="649" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-313" value="子合约订单创建中" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="6959" y="665" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fuxBlCpD1P7hH6LeHtpS-314" value="调用建行通用接口查询(AB520N108)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="fuxBlCpD1P7hH6LeHtpS-286" target="fuxBlCpD1P7hH6LeHtpS-301">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7144" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
