@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+  <diagram name="第 1 页" id="yqDYkvfrreaBzHDZe_My">
+    <mxGraphModel dx="810" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="310" width="20" x="160" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-15" parent="zy58d2kJ_-B4tvkmmZhq-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="5" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-16" edge="1" parent="zy58d2kJ_-B4tvkmmZhq-1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="zy58d2kJ_-B4tvkmmZhq-15" value="1.4 打开H5签约地址">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="200" />
+            </Array>
+            <mxPoint x="10" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="互联网支付" vertex="1">
+          <mxGeometry height="310" width="100" x="260" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-4" parent="zy58d2kJ_-B4tvkmmZhq-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="90" width="10" x="45" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-7" parent="zy58d2kJ_-B4tvkmmZhq-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="50" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-8" edge="1" parent="zy58d2kJ_-B4tvkmmZhq-2" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="zy58d2kJ_-B4tvkmmZhq-7" value="1.1 保存签约记录 状态初始化">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="110" />
+            </Array>
+            <mxPoint x="55" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-20" parent="zy58d2kJ_-B4tvkmmZhq-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="70" width="10" x="45" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="银联" vertex="1">
+          <mxGeometry height="310" width="100" x="470" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-12" parent="zy58d2kJ_-B4tvkmmZhq-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="34" width="10" x="45" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-14" edge="1" parent="zy58d2kJ_-B4tvkmmZhq-3" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="zy58d2kJ_-B4tvkmmZhq-4" value="1.2.1 返回H5签约地址">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="150.9999999999999" as="sourcePoint" />
+            <mxPoint x="-25" y="151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-17" parent="zy58d2kJ_-B4tvkmmZhq-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="36" width="10" x="45" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-23" parent="zy58d2kJ_-B4tvkmmZhq-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="45" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-25" edge="1" parent="zy58d2kJ_-B4tvkmmZhq-3" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="zy58d2kJ_-B4tvkmmZhq-20" value="1.6.1签约号">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="284" as="sourcePoint" />
+            <mxPoint x="-25" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-5" edge="1" parent="1" source="zy58d2kJ_-B4tvkmmZhq-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="zy58d2kJ_-B4tvkmmZhq-4" value="1. 用户发起H5签约请求">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="125" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-13" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="zy58d2kJ_-B4tvkmmZhq-12" value="1.2 调用银联签约支付签约下单接口">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-6" edge="1" parent="1" source="zy58d2kJ_-B4tvkmmZhq-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="zy58d2kJ_-B4tvkmmZhq-1" value="1.3 H5签约地址">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-18" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="zy58d2kJ_-B4tvkmmZhq-17" value="1.4.1 用户在银联H5完成签约绑卡操作">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="259" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-21" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="1.5用户绑卡成功通知">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="285" as="sourcePoint" />
+            <mxPoint x="315" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-24" edge="1" parent="1" source="zy58d2kJ_-B4tvkmmZhq-20" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="zy58d2kJ_-B4tvkmmZhq-23" value="1.6调用银联签约支付签约接口">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zy58d2kJ_-B4tvkmmZhq-22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="1.7 签约号">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="346" as="sourcePoint" />
+            <mxPoint x="169.92857142857144" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
