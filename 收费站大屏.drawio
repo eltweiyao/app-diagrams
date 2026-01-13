@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DIOEJTy1p_xWMCYYFKip-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
-          <mxGeometry height="1060" width="20" x="-84" y="40" as="geometry" />
+          <mxGeometry height="1280" width="20" x="-84" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="车道POS+大屏" vertex="1">
-          <mxGeometry height="1760" width="100" x="161" y="40" as="geometry" />
+          <mxGeometry height="1960" width="100" x="161" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-5" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="220" width="10" x="45" y="278" as="geometry" />
@@ -42,7 +42,7 @@
           <mxGeometry height="180" width="10" x="45" y="80" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="前置系统" vertex="1">
-          <mxGeometry height="2130" width="100" x="420" y="40" as="geometry" />
+          <mxGeometry height="2330" width="100" x="420" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-8" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="170" width="10" x="45" y="284" as="geometry" />
@@ -471,7 +471,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-35" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="小程序收银台" vertex="1">
-          <mxGeometry height="850" width="100" x="18" y="40" as="geometry" />
+          <mxGeometry height="1030" width="100" x="18" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-36" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="399" width="10" x="45" y="514" as="geometry" />
