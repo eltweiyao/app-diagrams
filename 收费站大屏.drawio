@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="ZJTG-00tBlAl39lwue1D">
-    <mxGraphModel dx="2495" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2245" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,289 +11,252 @@
           <mxGeometry height="1760" width="100" x="161" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-5" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="220" width="10" x="45" y="80" as="geometry" />
+          <mxGeometry height="220" width="10" x="45" y="278" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-19" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="12" width="10" x="50" y="284" as="geometry" />
+          <mxGeometry height="12" width="10" x="50" y="482" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-20" edge="1" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-19" value="车道POS调用大屏展示付款二维码">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="288" />
+              <mxPoint x="85" y="486" />
             </Array>
-            <mxPoint x="55" y="258" as="sourcePoint" />
+            <mxPoint x="55" y="456" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-47" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="222" width="10" x="45" y="1045" as="geometry" />
+          <mxGeometry height="222" width="10" x="45" y="1243" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-75" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="195" width="10" x="45" y="1552" as="geometry" />
+          <mxGeometry height="195" width="10" x="45" y="1750" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-76" edge="1" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-75" value="POS定时查询订单支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="1557" />
+              <mxPoint x="80" y="1755" />
             </Array>
-            <mxPoint x="50" y="1527" as="sourcePoint" />
+            <mxPoint x="50" y="1725" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-2" parent="DIOEJTy1p_xWMCYYFKip-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="180" width="10" x="45" y="80" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="前置系统" vertex="1">
           <mxGeometry height="2130" width="100" x="420" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-8" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="170" width="10" x="45" y="86" as="geometry" />
+          <mxGeometry height="170" width="10" x="45" y="284" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-11" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="87" width="10" x="50" y="119" as="geometry" />
+          <mxGeometry height="87" width="10" x="50" y="317" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-12" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="1.1.redis锁POS订单号 进行下单操作">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-12" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="2.1.redis锁POS订单号 进行下单操作">
           <mxGeometry relative="1" x="0.0053" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="85" y="124" />
+              <mxPoint x="85" y="322" />
             </Array>
-            <mxPoint x="55" y="94" as="sourcePoint" />
-            <mxPoint x="60" y="124" as="targetPoint" />
+            <mxPoint x="55" y="292" as="sourcePoint" />
+            <mxPoint x="60" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-14" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="1.1.1 查询订单号是否存在&lt;div&gt;如果存在则直接返回地址和支付状态&lt;/div&gt;">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-14" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="2.1.1 查询订单号是否存在&lt;div&gt;如果存在则直接返回地址和支付状态&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="132" />
-              <mxPoint x="90" y="162" />
+              <mxPoint x="90" y="330" />
+              <mxPoint x="90" y="360" />
             </Array>
-            <mxPoint x="60" y="132" as="sourcePoint" />
-            <mxPoint x="60" y="162" as="targetPoint" />
+            <mxPoint x="60" y="330" as="sourcePoint" />
+            <mxPoint x="60" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-16" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="1.1.2 保存订单信息">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-16" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="2.1.2 保存订单信息">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="170" />
-              <mxPoint x="90" y="200" />
+              <mxPoint x="90" y="368" />
+              <mxPoint x="90" y="398" />
             </Array>
-            <mxPoint x="60" y="170" as="sourcePoint" />
-            <mxPoint x="60" y="200" as="targetPoint" />
+            <mxPoint x="60" y="368" as="sourcePoint" />
+            <mxPoint x="60" y="398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-22" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="269" width="10" x="45" y="391" as="geometry" />
+          <mxGeometry height="269" width="10" x="45" y="589" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-25" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="1.2 发送订单关闭5分钟延时MQ">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-25" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="2.2 发送订单关闭5分钟延时MQ">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="85" y="210" />
-              <mxPoint x="85" y="240" />
+              <mxPoint x="85" y="408" />
+              <mxPoint x="85" y="438" />
             </Array>
-            <mxPoint x="55" y="210" as="sourcePoint" />
-            <mxPoint x="55" y="240" as="targetPoint" />
+            <mxPoint x="55" y="408" as="sourcePoint" />
+            <mxPoint x="55" y="438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-26" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="225" width="10" x="50" y="426" as="geometry" />
+          <mxGeometry height="225" width="10" x="50" y="624" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-27" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-26" value="3.1 redis锁支付订单号">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-27" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-26" value="4.1 redis锁支付订单号">
           <mxGeometry relative="1" x="0.0061" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="85" y="430" />
+              <mxPoint x="85" y="628" />
             </Array>
-            <mxPoint x="55" y="400" as="sourcePoint" />
+            <mxPoint x="55" y="598" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-28" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="3.1.1 校验订单状态">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-28" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.1 校验订单状态">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="439" />
-              <mxPoint x="90" y="469" />
+              <mxPoint x="90" y="637" />
+              <mxPoint x="90" y="667" />
             </Array>
-            <mxPoint x="60" y="439" as="sourcePoint" />
-            <mxPoint x="60" y="469" as="targetPoint" />
+            <mxPoint x="60" y="637" as="sourcePoint" />
+            <mxPoint x="60" y="667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-29" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="3.1.2 查询是否存在待支付状态的支付流水&lt;div&gt;如果存在主扫直接返回拉起收银台参数&lt;/div&gt;&lt;div&gt;如果存在被扫直接返回支付中&lt;/div&gt;">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-29" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.2 查询是否存在待支付状态的支付流水&lt;div&gt;如果存在主扫直接返回拉起收银台参数&lt;/div&gt;&lt;div&gt;如果存在被扫直接返回支付中&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="479" />
-              <mxPoint x="90" y="509" />
+              <mxPoint x="90" y="677" />
+              <mxPoint x="90" y="707" />
             </Array>
-            <mxPoint x="60" y="479" as="sourcePoint" />
-            <mxPoint x="60" y="509" as="targetPoint" />
+            <mxPoint x="60" y="677" as="sourcePoint" />
+            <mxPoint x="60" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-30" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="3.1.3 插入待发起状态的支付流水">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-30" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.3 插入待发起状态的支付流水">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="519" />
-              <mxPoint x="90" y="549" />
+              <mxPoint x="90" y="717" />
+              <mxPoint x="90" y="747" />
             </Array>
-            <mxPoint x="60" y="519" as="sourcePoint" />
-            <mxPoint x="60" y="549" as="targetPoint" />
+            <mxPoint x="60" y="717" as="sourcePoint" />
+            <mxPoint x="60" y="747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-34" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="3.1.6 保存支付参数 修改状态为待支付">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-34" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.6 保存支付参数 修改状态为待支付">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="611" />
-              <mxPoint x="90" y="641" />
+              <mxPoint x="90" y="809" />
+              <mxPoint x="90" y="839" />
             </Array>
-            <mxPoint x="60" y="611" as="sourcePoint" />
-            <mxPoint x="60" y="641" as="targetPoint" />
+            <mxPoint x="60" y="809" as="sourcePoint" />
+            <mxPoint x="60" y="839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-39" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="51" width="10" x="45" y="322" as="geometry" />
+          <mxGeometry height="51" width="10" x="45" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-41" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="2.2 用户user_id">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-41" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="3.2 用户user_id">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="368" as="sourcePoint" />
-            <mxPoint x="-347" y="368" as="targetPoint" />
+            <mxPoint x="45" y="566" as="sourcePoint" />
+            <mxPoint x="-347" y="566" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-42" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="11" width="10" x="50" y="352" as="geometry" />
+          <mxGeometry height="11" width="10" x="50" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-43" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="2.1 调用微信/支付宝获取user_id">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-43" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="3.1 调用微信/支付宝获取user_id">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="358" />
+              <mxPoint x="85" y="556" />
             </Array>
-            <mxPoint x="55" y="328" as="sourcePoint" />
-            <mxPoint x="60" y="358" as="targetPoint" />
+            <mxPoint x="55" y="526" as="sourcePoint" />
+            <mxPoint x="60" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-50" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="220" width="10" x="45" y="1047" as="geometry" />
+          <mxGeometry height="220" width="10" x="45" y="1245" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-52" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" source="DIOEJTy1p_xWMCYYFKip-50" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="5.2 被扫支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-52" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" source="DIOEJTy1p_xWMCYYFKip-50" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="6.2 被扫支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="1265" as="sourcePoint" />
-            <mxPoint x="-204" y="1265" as="targetPoint" />
+            <mxPoint x="45" y="1463" as="sourcePoint" />
+            <mxPoint x="-204" y="1463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-55" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="178" width="10" x="50" y="1079" as="geometry" />
+          <mxGeometry height="178" width="10" x="50" y="1277" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-56" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="5.1 redis锁支付订单号">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-56" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="6.1 redis锁支付订单号">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="1085" />
+              <mxPoint x="85" y="1283" />
             </Array>
-            <mxPoint x="55" y="1055" as="sourcePoint" />
-            <mxPoint x="60" y="1085.0000000000002" as="targetPoint" />
+            <mxPoint x="55" y="1253" as="sourcePoint" />
+            <mxPoint x="60" y="1283.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-57" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="5.1.1 校验订单状态以及处理中支付流水&lt;div&gt;如果存在待支付的流水直接返回支付中&lt;/div&gt;">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-57" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="6.1.1 校验订单状态以及处理中支付流水&lt;div&gt;如果存在待支付的流水直接返回支付中&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1095" />
-              <mxPoint x="90" y="1125" />
+              <mxPoint x="90" y="1293" />
+              <mxPoint x="90" y="1323" />
             </Array>
-            <mxPoint x="60" y="1095" as="sourcePoint" />
-            <mxPoint x="60" y="1125" as="targetPoint" />
+            <mxPoint x="60" y="1293" as="sourcePoint" />
+            <mxPoint x="60" y="1323" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-58" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="5.1.2 插入待支付状态的支付流水">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-58" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="6.1.2 插入待支付状态的支付流水">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1135" />
-              <mxPoint x="90" y="1165" />
+              <mxPoint x="90" y="1333" />
+              <mxPoint x="90" y="1363" />
             </Array>
-            <mxPoint x="60" y="1135" as="sourcePoint" />
-            <mxPoint x="60" y="1165" as="targetPoint" />
+            <mxPoint x="60" y="1333" as="sourcePoint" />
+            <mxPoint x="60" y="1363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-62" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="55" y="1242" as="geometry" />
+          <mxGeometry height="10" width="10" x="55" y="1440" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-63" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-62" value="5.1.5 调用结果处理模块处理支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-63" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-62" value="6.1.5 调用结果处理模块处理支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1245" />
+              <mxPoint x="90" y="1443" />
             </Array>
-            <mxPoint x="60" y="1215" as="sourcePoint" />
+            <mxPoint x="60" y="1413" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-64" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="94" width="10" x="45" y="1307" as="geometry" />
+          <mxGeometry height="94" width="10" x="45" y="1505" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-65" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-64" value="6. 前置系统定时查询流水的支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-65" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-64" value="7. 前置系统定时查询流水的支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="1311" />
+              <mxPoint x="80" y="1509" />
             </Array>
-            <mxPoint x="50" y="1281" as="sourcePoint" />
+            <mxPoint x="50" y="1479" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-70" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="6.3 调用结果处理模块处理支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-70" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="7.3 调用结果处理模块处理支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="1360" />
-              <mxPoint x="85" y="1390" />
+              <mxPoint x="85" y="1558" />
+              <mxPoint x="85" y="1588" />
             </Array>
-            <mxPoint x="55" y="1360" as="sourcePoint" />
-            <mxPoint x="55" y="1390" as="targetPoint" />
+            <mxPoint x="55" y="1558" as="sourcePoint" />
+            <mxPoint x="55" y="1588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-71" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="132" width="10" x="46" y="1425" as="geometry" />
+          <mxGeometry height="132" width="10" x="46" y="1623" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-74" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="7.1 查询订单支付流水">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-74" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="8.1 查询订单支付流水">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="1445" />
-              <mxPoint x="85" y="1475" />
+              <mxPoint x="85" y="1643" />
+              <mxPoint x="85" y="1673" />
             </Array>
-            <mxPoint x="55" y="1445" as="sourcePoint" />
-            <mxPoint x="55" y="1475" as="targetPoint" />
+            <mxPoint x="55" y="1643" as="sourcePoint" />
+            <mxPoint x="55" y="1673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-77" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="173" width="10" x="45" y="1574" as="geometry" />
+          <mxGeometry height="173" width="10" x="45" y="1772" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-80" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="8.1 查询订单支付结果">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="85" y="1580" />
-              <mxPoint x="85" y="1610" />
-            </Array>
-            <mxPoint x="55" y="1580" as="sourcePoint" />
-            <mxPoint x="55" y="1610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-81" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="83" width="10" x="51" y="1644" as="geometry" />
-        </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-82" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="8.2 处理中时 需查询非终态支付流水">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="86" y="1650" />
-            </Array>
-            <mxPoint x="56" y="1620" as="sourcePoint" />
-            <mxPoint x="61" y="1650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-86" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="8.2.3 调用结果处理模块处理支付结果">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="91" y="1692" />
-              <mxPoint x="91" y="1722" />
-            </Array>
-            <mxPoint x="61" y="1692" as="sourcePoint" />
-            <mxPoint x="61" y="1722" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-89" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="170" width="10" x="45" y="1768" as="geometry" />
-        </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-90" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-89" value="9. 订单关闭延时MQ">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70" y="1773" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-94" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="9.1 查询订单及非终态支付流水">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-80" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="9.1 查询订单支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="85" y="1778" />
@@ -303,332 +266,435 @@
             <mxPoint x="55" y="1808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-81" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="83" width="10" x="51" y="1842" as="geometry" />
+        </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-82" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="9.2 处理中时 需查询非终态支付流水">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="86" y="1848" />
+            </Array>
+            <mxPoint x="56" y="1818" as="sourcePoint" />
+            <mxPoint x="61" y="1848" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-86" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="9.2.3 调用结果处理模块处理支付结果">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="91" y="1890" />
+              <mxPoint x="91" y="1920" />
+            </Array>
+            <mxPoint x="61" y="1890" as="sourcePoint" />
+            <mxPoint x="61" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-89" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="170" width="10" x="45" y="1966" as="geometry" />
+        </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-90" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-89" value="10. 订单关闭延时MQ">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="1971" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-94" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;10&lt;/span&gt;.1 查询订单及非终态支付流水">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="1976" />
+              <mxPoint x="85" y="2006" />
+            </Array>
+            <mxPoint x="55" y="1976" as="sourcePoint" />
+            <mxPoint x="55" y="2006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-8" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="223" width="10" x="45" y="807" as="geometry" />
+          <mxGeometry height="223" width="10" x="45" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-12" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="178" width="10" x="50" y="842" as="geometry" />
+          <mxGeometry height="178" width="10" x="50" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-13" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="XTtfL8MM6sG31WS5IHra-12" value="4.1 redis锁支付订单号">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-13" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="XTtfL8MM6sG31WS5IHra-12" value="5.1 redis锁支付订单号">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="847" />
+              <mxPoint x="85" y="1045" />
             </Array>
-            <mxPoint x="55" y="817" as="sourcePoint" />
+            <mxPoint x="55" y="1015" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-14" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.1 校验订单状态">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-14" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="5.1.1 校验订单状态">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="856" />
-              <mxPoint x="90" y="886" />
+              <mxPoint x="90" y="1054" />
+              <mxPoint x="90" y="1084" />
             </Array>
-            <mxPoint x="60" y="856" as="sourcePoint" />
-            <mxPoint x="60" y="886" as="targetPoint" />
+            <mxPoint x="60" y="1054" as="sourcePoint" />
+            <mxPoint x="60" y="1084" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-15" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.2 查询是否存在待支付状态的支付流水&lt;div&gt;关闭所有非终态的支付流水&lt;/div&gt;">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-15" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="5.1.2 查询是否存在待支付状态的支付流水&lt;div&gt;关闭所有非终态的支付流水&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="895" />
-              <mxPoint x="90" y="925" />
+              <mxPoint x="90" y="1093" />
+              <mxPoint x="90" y="1123" />
             </Array>
-            <mxPoint x="60" y="895" as="sourcePoint" />
-            <mxPoint x="60" y="925" as="targetPoint" />
+            <mxPoint x="60" y="1093" as="sourcePoint" />
+            <mxPoint x="60" y="1123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-21" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="4.1.5 调用结果处理模块处理支付结果">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-21" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="5.1.5 调用结果处理模块处理支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="91" y="1003" />
+              <mxPoint x="91" y="1201" />
             </Array>
-            <mxPoint x="61" y="973" as="sourcePoint" />
-            <mxPoint x="66" y="1003.0000000000002" as="targetPoint" />
+            <mxPoint x="61" y="1171" as="sourcePoint" />
+            <mxPoint x="66" y="1201.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-22" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="56" y="1000" as="geometry" />
+          <mxGeometry height="10" width="10" x="56" y="1198" as="geometry" />
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-5" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="170" width="10" x="46" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-8" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="130" width="10" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-9" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="E6kTuHgsKzuFEbYLTnvn-8" value="1.1.redis锁POS订单号 进行下单操作">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="130" />
+            </Array>
+            <mxPoint x="55" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-10" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="1.1.1 查询订单号是否存在">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="140" />
+              <mxPoint x="90" y="170" />
+            </Array>
+            <mxPoint x="60" y="140" as="sourcePoint" />
+            <mxPoint x="60" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-11" edge="1" parent="DIOEJTy1p_xWMCYYFKip-3" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="1.1.2 创建订单和流水状态处理中">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="180" />
+              <mxPoint x="90" y="210" />
+            </Array>
+            <mxPoint x="60" y="180" as="sourcePoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="老聚合" vertex="1">
           <mxGeometry height="2140" width="100" x="680" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-31" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="43" width="10" x="45" y="566" as="geometry" />
+          <mxGeometry height="43" width="10" x="45" y="764" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-33" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="3.1.5 微信支付宝拉起支付参数">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-33" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="4.1.5 微信支付宝拉起支付参数">
           <mxGeometry relative="1" x="0.0638" y="-1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="45.00000000000023" y="602" as="sourcePoint" />
-            <mxPoint x="-200" y="602" as="targetPoint" />
+            <mxPoint x="45.00000000000023" y="800" as="sourcePoint" />
+            <mxPoint x="-200" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-59" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="34" width="10" x="45" y="1181" as="geometry" />
+          <mxGeometry height="34" width="10" x="45" y="1379" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-61" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="5.1.4 被扫支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-61" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="6.1.4 被扫支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="1209" as="sourcePoint" />
-            <mxPoint x="-200" y="1209" as="targetPoint" />
+            <mxPoint x="45" y="1407" as="sourcePoint" />
+            <mxPoint x="-200" y="1407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-66" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="34" width="10" x="45" y="1324" as="geometry" />
+          <mxGeometry height="34" width="10" x="45" y="1522" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-83" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="30" width="10" x="45" y="1655" as="geometry" />
+          <mxGeometry height="30" width="10" x="45" y="1853" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-95" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="29" width="10" x="45" y="1859" as="geometry" />
+          <mxGeometry height="29" width="10" x="45" y="2057" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-97" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="9.5 流水关闭结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-97" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="10.5 流水关闭结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="1887" as="sourcePoint" />
-            <mxPoint x="-205" y="1887" as="targetPoint" />
+            <mxPoint x="45" y="2085" as="sourcePoint" />
+            <mxPoint x="-205" y="2085" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-104" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="30" width="10" x="45" y="1818" as="geometry" />
+          <mxGeometry height="30" width="10" x="45" y="2016" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-108" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="30" width="10" x="45" y="1487" as="geometry" />
+          <mxGeometry height="30" width="10" x="45" y="1685" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-110" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="DIOEJTy1p_xWMCYYFKip-71" value="7.3 退款结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-110" edge="1" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="DIOEJTy1p_xWMCYYFKip-71" value="8.3 退款结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="1514.0000000000002" as="sourcePoint" />
-            <mxPoint x="-25" y="1514" as="targetPoint" />
+            <mxPoint x="45" y="1712.0000000000002" as="sourcePoint" />
+            <mxPoint x="-25" y="1712" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-16" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="26" width="10" x="45" y="940" as="geometry" />
+          <mxGeometry height="26" width="10" x="45" y="1138" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-6" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-5" value="用户车辆到站">
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-12" parent="DIOEJTy1p_xWMCYYFKip-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="45" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-5" value="用户车辆到站">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="166" y="125" as="sourcePoint" />
+            <mxPoint x="-74.5" y="323.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-8" value="1.POS生成单号&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;调用前置系统生成付款二维码&lt;/span&gt;">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-8" value="2.POS生成单号&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;调用前置系统生成付款二维码&lt;/span&gt;">
           <mxGeometry relative="1" x="-0.0016" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="216" y="131.0000000000001" as="sourcePoint" />
+            <mxPoint x="216" y="329.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="返回付款二维码地址">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="287.0000000000001" as="sourcePoint" />
-            <mxPoint x="216" y="287" as="targetPoint" />
+            <mxPoint x="465" y="485.0000000000001" as="sourcePoint" />
+            <mxPoint x="216" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-23" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-22" value="3. 获取拉起微信/支付宝收银台参数">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-23" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-22" value="4. 获取拉起微信/支付宝收银台参数">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="73" y="436.00000000000045" as="sourcePoint" />
+            <mxPoint x="73" y="634.0000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-32" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="DIOEJTy1p_xWMCYYFKip-31" value="3.1.4 调用老聚合进行预下单 超时时间10分钟">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-32" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="DIOEJTy1p_xWMCYYFKip-31" value="4.1.4 调用老聚合进行预下单 超时时间10分钟">
           <mxGeometry relative="1" x="-0.0246" y="-1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="481" y="611" as="sourcePoint" />
-            <mxPoint x="716.0000000000002" y="611" as="targetPoint" />
+            <mxPoint x="481" y="809" as="sourcePoint" />
+            <mxPoint x="716.0000000000002" y="809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-35" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="小程序收银台" vertex="1">
           <mxGeometry height="850" width="100" x="18" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-36" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="399" width="10" x="45" y="316" as="geometry" />
+          <mxGeometry height="399" width="10" x="45" y="514" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-45" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="10" width="10" x="50" y="693" as="geometry" />
+          <mxGeometry height="10" width="10" x="50" y="891" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-46" edge="1" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="拉起微信/支付宝的收银台，等待用户付款">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="696" />
+              <mxPoint x="85" y="894" />
             </Array>
-            <mxPoint x="55" y="666" as="sourcePoint" />
-            <mxPoint x="60" y="696" as="targetPoint" />
+            <mxPoint x="55" y="864" as="sourcePoint" />
+            <mxPoint x="60" y="894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-1" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="60" width="10" x="45" y="740" as="geometry" />
+          <mxGeometry height="60" width="10" x="45" y="938" as="geometry" />
         </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-4" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="20" width="10" x="50" y="774" as="geometry" />
+          <mxGeometry height="20" width="10" x="50" y="972" as="geometry" />
         </mxCell>
         <mxCell id="XTtfL8MM6sG31WS5IHra-5" edge="1" parent="DIOEJTy1p_xWMCYYFKip-35" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="XTtfL8MM6sG31WS5IHra-4" value="调用无感系统完成签约后返回收银台">
           <mxGeometry relative="1" x="0.0118" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="85" y="780" />
+              <mxPoint x="85" y="978" />
             </Array>
-            <mxPoint x="55" y="750" as="sourcePoint" />
+            <mxPoint x="55" y="948" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-37" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-36" value="用户扫描大屏付款&lt;div&gt;二维码进行付款&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-74.5" y="361.0000000000007" as="sourcePoint" />
+            <mxPoint x="-74.5" y="559.0000000000007" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-40" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="2. 调用前置程序获取用户user_id">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-40" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="3. 调用前置程序获取用户user_id">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="73" y="364" as="sourcePoint" />
-            <mxPoint x="465" y="364" as="targetPoint" />
+            <mxPoint x="73" y="562" as="sourcePoint" />
+            <mxPoint x="465" y="562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-24" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-22" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="拉起微信/支付宝收银台参数">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="73" y="694.9999999999995" as="targetPoint" />
+            <mxPoint x="73" y="892.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-48" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-47" value="用户出示微信/支付宝付款码">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-74.5" y="1090" as="sourcePoint" />
+            <mxPoint x="-74.5" y="1288" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-51" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-50" value="5. 调用前置系统进行被扫收款">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-51" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-50" value="6. 调用前置系统进行被扫收款">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="216" y="1091" as="sourcePoint" />
+            <mxPoint x="216" y="1289" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-60" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-59" value="5.1.3 调用老聚合被扫接口">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-60" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-59" value="6.1.3 调用老聚合被扫接口">
           <mxGeometry relative="1" x="0.0041" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="480" y="1226" as="sourcePoint" />
+            <mxPoint x="480" y="1424" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-67" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="6.1 调用老聚合支付结果查询接口">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-67" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="7.1 调用老聚合支付结果查询接口">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="1367" as="sourcePoint" />
-            <mxPoint x="725" y="1367" as="targetPoint" />
+            <mxPoint x="475" y="1565" as="sourcePoint" />
+            <mxPoint x="725" y="1565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-68" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="6.2 流水支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-68" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="7.2 流水支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="1390" as="sourcePoint" />
-            <mxPoint x="475" y="1390" as="targetPoint" />
+            <mxPoint x="725" y="1588" as="sourcePoint" />
+            <mxPoint x="475" y="1588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-72" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="DIOEJTy1p_xWMCYYFKip-71" value="7. 通知流水支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-72" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="DIOEJTy1p_xWMCYYFKip-71" value="8. 通知流水支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="729.5" y="1470" as="sourcePoint" />
-            <mxPoint x="470" y="1470" as="targetPoint" />
+            <mxPoint x="729.5" y="1668" as="sourcePoint" />
+            <mxPoint x="470" y="1668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-78" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="8. 查询订单支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-78" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="9. 查询订单支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="216" y="1614" as="sourcePoint" />
-            <mxPoint x="465" y="1614" as="targetPoint" />
+            <mxPoint x="216" y="1812" as="sourcePoint" />
+            <mxPoint x="465" y="1812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-84" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-83" value="8.2.1 查询流水的支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-84" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-83" value="9.2.1 查询流水的支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="481" y="1700" as="sourcePoint" />
+            <mxPoint x="481" y="1898" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-85" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-83" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="8.2.2 非终态流水支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-85" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-83" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="9.2.2 非终态流水支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="481" y="1720" as="targetPoint" />
+            <mxPoint x="481" y="1918" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-87" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="8.3 订单支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-87" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="9.3 订单支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="464.9999999999998" y="1777.5" as="sourcePoint" />
-            <mxPoint x="216" y="1777.5" as="targetPoint" />
+            <mxPoint x="464.9999999999998" y="1975.5" as="sourcePoint" />
+            <mxPoint x="216" y="1975.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-96" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-95" value="9.4 若处理中直接调用接口关闭">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-96" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-95" value="10.4 若处理中直接调用接口关闭">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="1904" as="sourcePoint" />
+            <mxPoint x="475" y="2102" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-98" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="9.6 调用结果处理模块处理支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-98" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="&lt;span style=&quot;text-align: center;&quot;&gt;10&lt;/span&gt;.6 调用结果处理模块处理支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="506" y="1937" />
-              <mxPoint x="506" y="1967" />
+              <mxPoint x="506" y="2135" />
+              <mxPoint x="506" y="2165" />
             </Array>
-            <mxPoint x="476" y="1937" as="sourcePoint" />
-            <mxPoint x="476" y="1967" as="targetPoint" />
+            <mxPoint x="476" y="2135" as="sourcePoint" />
+            <mxPoint x="476" y="2165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-99" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="支付结果处理" vertex="1">
-          <mxGeometry height="168" width="320" x="410" y="1990" as="geometry" />
+          <mxGeometry height="168" width="320" x="410" y="2188" as="geometry" />
         </mxCell>
         <mxCell id="DIOEJTy1p_xWMCYYFKip-100" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="110" width="10" x="465" y="2038" as="geometry" />
+          <mxGeometry height="110" width="10" x="465" y="2236" as="geometry" />
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-101" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-100" value="10. redis锁支付订单号">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-101" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="DIOEJTy1p_xWMCYYFKip-100" value="11. redis锁支付订单号">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="2048" />
+              <mxPoint x="500" y="2246" />
             </Array>
-            <mxPoint x="470" y="2018" as="sourcePoint" />
+            <mxPoint x="470" y="2216" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-102" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="10.1 修改支付流水状态">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-102" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="11.1 修改支付流水状态">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="2058" />
-              <mxPoint x="505" y="2088" />
+              <mxPoint x="505" y="2256" />
+              <mxPoint x="505" y="2286" />
             </Array>
-            <mxPoint x="475" y="2058" as="sourcePoint" />
-            <mxPoint x="475" y="2088" as="targetPoint" />
+            <mxPoint x="475" y="2256" as="sourcePoint" />
+            <mxPoint x="475" y="2286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-103" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="10.2 如果流水成功 则修改订单为成功&lt;br&gt;如果为订单关闭且所有状态均已关闭&lt;div&gt;则修改订单状态为已关闭&lt;/div&gt;">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-103" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="11.2 如果流水成功 则修改订单为成功&lt;br&gt;如果为订单关闭且所有状态均已关闭&lt;div&gt;则修改订单状态为已关闭&lt;/div&gt;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="2097" />
-              <mxPoint x="505" y="2127" />
+              <mxPoint x="505" y="2295" />
+              <mxPoint x="505" y="2325" />
             </Array>
-            <mxPoint x="475" y="2097" as="sourcePoint" />
-            <mxPoint x="475" y="2127" as="targetPoint" />
+            <mxPoint x="475" y="2295" as="sourcePoint" />
+            <mxPoint x="475" y="2325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-105" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-89" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-104" value="9.2 调用老聚合查询支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-105" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-89" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-104" value="10.2 调用老聚合查询支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="1863" as="sourcePoint" />
+            <mxPoint x="655" y="2061" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-106" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-104" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="DIOEJTy1p_xWMCYYFKip-89" value="9.3 流水支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-106" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-104" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="DIOEJTy1p_xWMCYYFKip-89" value="10.3 流水支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="1933" as="targetPoint" />
+            <mxPoint x="655" y="2131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-109" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-71" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-108" value="7.2 订单已关闭且状态成功则调用老聚合退款">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-109" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-71" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="DIOEJTy1p_xWMCYYFKip-108" value="8.2 订单已关闭且状态成功则调用老聚合退款">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="1532" as="sourcePoint" />
+            <mxPoint x="655" y="1730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIOEJTy1p_xWMCYYFKip-111" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="7.4 调用结果处理模块处理支付结果">
+        <mxCell id="DIOEJTy1p_xWMCYYFKip-111" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" value="8.4 调用结果处理模块处理支付结果">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="1565" />
-              <mxPoint x="505" y="1595" />
+              <mxPoint x="505" y="1763" />
+              <mxPoint x="505" y="1793" />
             </Array>
-            <mxPoint x="475" y="1565" as="sourcePoint" />
-            <mxPoint x="475" y="1595" as="targetPoint" />
+            <mxPoint x="475" y="1763" as="sourcePoint" />
+            <mxPoint x="475" y="1793" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-2" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="XTtfL8MM6sG31WS5IHra-1" value="用户选择开通无感并支付">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-2" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="XTtfL8MM6sG31WS5IHra-1" value="用户选择开通无感并支付">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-7" y="785" as="sourcePoint" />
+            <mxPoint x="-74.5" y="983" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;startArrow=oval;startFill=1;" target="XTtfL8MM6sG31WS5IHra-8" value="4.用户收银台选择无感支付/无感系统后台回调/POS发起无感支付">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;startArrow=oval;startFill=1;" target="XTtfL8MM6sG31WS5IHra-8" value="5.用户收银台选择无感支付/无感系统后台回调/POS发起无感支付">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="852" as="sourcePoint" />
+            <mxPoint x="100" y="1050" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-17" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="4.1.3 调用老聚合进行无感支付">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-17" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" value="5.1.3 调用老聚合进行无感支付">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="983" as="sourcePoint" />
-            <mxPoint x="725" y="983" as="targetPoint" />
+            <mxPoint x="480" y="1181" as="sourcePoint" />
+            <mxPoint x="725" y="1181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XTtfL8MM6sG31WS5IHra-18" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="4.1.4 老聚合无感支付结果">
+        <mxCell id="XTtfL8MM6sG31WS5IHra-18" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="5.1.4 老聚合无感支付结果">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="1003" as="sourcePoint" />
-            <mxPoint x="480" y="1003" as="targetPoint" />
+            <mxPoint x="725" y="1201" as="sourcePoint" />
+            <mxPoint x="480" y="1201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-3" edge="1" parent="1" source="DIOEJTy1p_xWMCYYFKip-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="E6kTuHgsKzuFEbYLTnvn-2" value="用户车辆到站">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="125" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-6" edge="1" parent="1" source="E6kTuHgsKzuFEbYLTnvn-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="E6kTuHgsKzuFEbYLTnvn-5" value="1.在白名单内发起发起无感支付">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-13" edge="1" parent="1" source="E6kTuHgsKzuFEbYLTnvn-8" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="E6kTuHgsKzuFEbYLTnvn-12" value="1.1.3 调用老聚合无感支付">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-14" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" value="1.1.4 无感支付结果">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="284" as="sourcePoint" />
+            <mxPoint x="479.9999999999998" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6kTuHgsKzuFEbYLTnvn-7" edge="1" parent="1" source="E6kTuHgsKzuFEbYLTnvn-5" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="E6kTuHgsKzuFEbYLTnvn-2" value="无感支付结果">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="396" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
