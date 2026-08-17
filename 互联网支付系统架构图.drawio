@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="cXF_4HauLMC5GRhUL6i-">
-    <mxGraphModel dx="2335" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2001" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,14 +25,17 @@
         <mxCell id="nuREe1NOm1xkNfQqyhl4-7" parent="nuREe1NOm1xkNfQqyhl4-1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="商户操作" vertex="1">
           <mxGeometry height="22" width="80" x="960" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-8" parent="1" style="swimlane;startSize=30;whiteSpace=wrap;html=1;fillColor=#fff8ec;strokeColor=none;fontStyle=1;fontSize=13;swimlaneFillColor=#FFF8EC;" value="网关层" vertex="1">
-          <mxGeometry height="140" width="860" x="360" y="400" as="geometry" />
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-8" parent="1" style="swimlane;startSize=30;whiteSpace=wrap;html=1;fillColor=#fff8ec;strokeColor=none;fontStyle=1;fontSize=13;swimlaneFillColor=#FFF8EC;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="140" width="1360" x="360" y="405" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-9" parent="nuREe1NOm1xkNfQqyhl4-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" value="cpt-gateway&#xa;统一鉴权与路由分发" vertex="1">
           <mxGeometry height="70" width="200" x="430" y="35" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-10" parent="nuREe1NOm1xkNfQqyhl4-8" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="报表查询/数仓直连" vertex="1">
-          <mxGeometry height="22" width="170" x="660" y="50" as="geometry" />
+          <mxGeometry height="22" width="170" x="660" y="59" as="geometry" />
+        </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-50" parent="nuREe1NOm1xkNfQqyhl4-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="xxl-job&#xa;任务调度中心" vertex="1">
+          <mxGeometry height="70" width="400" x="910" y="35" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-11" parent="1" style="swimlane;startSize=30;whiteSpace=wrap;html=1;fillColor=#f0f6ff;strokeColor=none;fontStyle=1;fontSize=13;swimlaneFillColor=#F0F6FF;" value="业务聚合层 (SAL)" vertex="1">
           <mxGeometry height="140" width="1110" x="360" y="600" as="geometry" />
@@ -49,6 +52,18 @@
         <mxCell id="nuREe1NOm1xkNfQqyhl4-15" parent="nuREe1NOm1xkNfQqyhl4-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="sal-merchant&#xa;商户管理" vertex="1">
           <mxGeometry height="70" width="200" x="880" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-27" parent="nuREe1NOm1xkNfQqyhl4-11" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="回调分发" vertex="1">
+          <mxGeometry height="22" width="80" x="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-28" parent="nuREe1NOm1xkNfQqyhl4-11" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="运营请求" vertex="1">
+          <mxGeometry height="22" width="80" x="685" as="geometry" />
+        </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-29" parent="nuREe1NOm1xkNfQqyhl4-11" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="商户请求" vertex="1">
+          <mxGeometry height="22" width="80" x="970" as="geometry" />
+        </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-26" parent="nuREe1NOm1xkNfQqyhl4-11" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="路由分发" vertex="1">
+          <mxGeometry height="22" width="80" x="150" as="geometry" />
+        </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-16" parent="1" style="swimlane;startSize=30;whiteSpace=wrap;html=1;fillColor=#f2f8f2;strokeColor=none;fontStyle=1;fontSize=13;swimlaneFillColor=#F2F8F2;" value="核心领域层 (CSP)" vertex="1">
           <mxGeometry height="140" width="850" x="360" y="800" as="geometry" />
         </mxCell>
@@ -60,6 +75,12 @@
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-19" parent="nuREe1NOm1xkNfQqyhl4-16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" value="csp-channel&#xa;渠道中心" vertex="1">
           <mxGeometry height="70" width="200" x="610" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-31" parent="nuREe1NOm1xkNfQqyhl4-16" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="渠道下单" vertex="1">
+          <mxGeometry height="22" width="80" x="700" as="geometry" />
+        </mxCell>
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-32" parent="nuREe1NOm1xkNfQqyhl4-16" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="渠道状态更新" vertex="1">
+          <mxGeometry height="22" width="80" x="580" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-20" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;fillColor=#fffaf0;strokeColor=none;fontStyle=1;fontSize=13;swimlaneFillColor=#FFFAF0;" value="通用基础层 (SSP)" vertex="1">
           <mxGeometry height="340" width="200" x="1510" y="600" as="geometry" />
@@ -79,26 +100,8 @@
         <mxCell id="nuREe1NOm1xkNfQqyhl4-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="异步通知" vertex="1">
           <mxGeometry height="22" width="80" x="830" y="352" as="geometry" />
         </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-26" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="路由分发" vertex="1">
-          <mxGeometry height="22" width="80" x="480" y="595" as="geometry" />
-        </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-27" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="回调分发" vertex="1">
-          <mxGeometry height="22" width="80" x="830" y="595" as="geometry" />
-        </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-28" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="运营请求" vertex="1">
-          <mxGeometry height="22" width="80" x="1045" y="578" as="geometry" />
-        </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-29" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="商户请求" vertex="1">
-          <mxGeometry height="22" width="80" x="1330" y="578" as="geometry" />
-        </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-30" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="客户校验" vertex="1">
-          <mxGeometry height="22" width="80" x="480" y="795" as="geometry" />
-        </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="渠道下单" vertex="1">
-          <mxGeometry height="22" width="80" x="1070" y="773" as="geometry" />
-        </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#444444;" value="渠道状态更新" vertex="1">
-          <mxGeometry height="22" width="80" x="940" y="782" as="geometry" />
+          <mxGeometry height="22" width="80" x="510" y="782" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-33" edge="1" parent="1" source="nuREe1NOm1xkNfQqyhl4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#d79b00;strokeWidth=2;endArrow=block;" target="nuREe1NOm1xkNfQqyhl4-9">
           <mxGeometry relative="1" as="geometry">
@@ -184,19 +187,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-44" edge="1" parent="1" source="nuREe1NOm1xkNfQqyhl4-9" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;endArrow=block;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="nuREe1NOm1xkNfQqyhl4-49">
+        <mxCell id="nuREe1NOm1xkNfQqyhl4-44" edge="1" parent="1" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;endArrow=block;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="nuREe1NOm1xkNfQqyhl4-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1210" y="470" />
-              <mxPoint x="1210" y="875" />
+              <mxPoint x="990.03" y="480" />
+              <mxPoint x="1210.03" y="480" />
+              <mxPoint x="1210.03" y="875.03" />
             </Array>
+            <mxPoint x="990" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fontSize=11;fillColor=#f0f6ff;strokeColor=#6c8ebf;" value="核心调用关系&#xa;· 交易正向流：API/客户端 → cpt-gateway → sal-web-cashier → csp-trade / csp-channel / csp-customer&#xa;· 渠道异步通知：外部支付渠道 → cpt-gateway → sal-chl-notice → csp-channel（渠道状态更新）/ csp-trade（交易状态流转）&#xa;· 运营/商服：运营平台、商服平台 → cpt-gateway → sal-admin / sal-merchant → 聚合查询/操作 CSP 三中心" vertex="1">
           <mxGeometry height="100" width="700" x="370" y="990" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=8;fontSize=11;fillColor=#fffaf0;strokeColor=#d6b656;" value="支撑与旁路&#xa;· SAL/CSP 各业务服务按需调用通用基础层：ssp-data（通用数据）、ssp-notify（通知）、ssp-workflow（审批/流程）&#xa;· xxl-job 独立调度触发 sal-admin、csp-trade、csp-channel、csp-customer、ssp-data 的定时任务&#xa;· 报表/数仓：运营平台、商服平台经 cpt-gateway 直连 cpt-data-warehouse" vertex="1">
-          <mxGeometry height="100" width="690" x="1100" y="990" as="geometry" />
+          <mxGeometry height="100" width="610" x="1100" y="990" as="geometry" />
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-47" edge="1" parent="1" source="nuREe1NOm1xkNfQqyhl4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;endArrow=block;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nuREe1NOm1xkNfQqyhl4-19" value="">
           <mxGeometry relative="1" as="geometry">
@@ -213,9 +218,6 @@
         </mxCell>
         <mxCell id="nuREe1NOm1xkNfQqyhl4-49" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" value="cpt-data-warehouse&#xa;数仓/报表" vertex="1">
           <mxGeometry height="70" width="240" x="1240" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="nuREe1NOm1xkNfQqyhl4-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" value="xxl-job&#xa;任务调度中心" vertex="1">
-          <mxGeometry height="70" width="400" x="1260" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
