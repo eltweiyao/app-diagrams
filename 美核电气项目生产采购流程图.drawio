@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="1406" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,16 +326,6 @@
         <mxCell id="e-DhyNcPMLH01BiicHPO-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.2 ERP请购单&lt;br&gt;（项目经理/研发人员/生产计划员/商务专员）" vertex="1">
           <mxGeometry height="50" width="135" x="910" y="839" as="geometry" />
         </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-82" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1150" y="575" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-85" connectable="0" parent="e-DhyNcPMLH01BiicHPO-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="申请测试物料" vertex="1">
-          <mxGeometry relative="1" x="-0.1274" y="-1" as="geometry">
-            <mxPoint x="1" y="-18" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-92" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -344,7 +334,7 @@
             <mxPoint x="1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-97" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-94">
+        <mxCell id="e-DhyNcPMLH01BiicHPO-103" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-89" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="是否库存&lt;br&gt;充足？" vertex="1">
@@ -358,11 +348,23 @@
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-96" connectable="0" parent="e-DhyNcPMLH01BiicHPO-95" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="测试物料领用" vertex="1">
           <mxGeometry relative="1" x="-0.4769" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.2 ERP材料出库单&lt;br&gt;（研发人员/生产计划员）" vertex="1">
-          <mxGeometry height="50" width="110" x="1070" y="753" as="geometry" />
+          <mxGeometry height="50" width="110" x="1048" y="752" as="geometry" />
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-102" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-98" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="耗材类简&lt;br&gt;单物料？" vertex="1">
+          <mxGeometry height="60" width="90" x="1058" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-100" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="e-DhyNcPMLH01BiicHPO-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-101" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="e-DhyNcPMLH01BiicHPO-98">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
