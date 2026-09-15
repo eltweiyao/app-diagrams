@@ -357,13 +357,23 @@
         <mxCell id="e-DhyNcPMLH01BiicHPO-102" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-106" connectable="0" parent="e-DhyNcPMLH01BiicHPO-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.4052" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-104" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-105" connectable="0" parent="e-DhyNcPMLH01BiicHPO-104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.3467" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-98" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="耗材类简&lt;br&gt;单物料？" vertex="1">
           <mxGeometry height="60" width="90" x="1058" y="675" as="geometry" />
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-100" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="e-DhyNcPMLH01BiicHPO-98">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-101" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="e-DhyNcPMLH01BiicHPO-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
