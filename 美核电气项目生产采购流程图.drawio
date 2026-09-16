@@ -55,7 +55,7 @@
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-45" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RW2Y-8n8kBFQ61qmdBiv-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-46" connectable="0" parent="RW2Y-8n8kBFQ61qmdBiv-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要澄清" vertex="1">
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-46" connectable="0" parent="RW2Y-8n8kBFQ61qmdBiv-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
           <mxGeometry relative="1" x="-0.2667" y="-1" as="geometry">
             <mxPoint x="1" y="-13" as="offset" />
           </mxGeometry>
@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-39" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="投标&lt;br&gt;有疑问？" vertex="1">
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-39" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="是否需要&lt;br&gt;澄清？" vertex="1">
           <mxGeometry height="60" width="90" x="533" y="40" as="geometry" />
         </mxCell>
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-40" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="RW2Y-8n8kBFQ61qmdBiv-39">
