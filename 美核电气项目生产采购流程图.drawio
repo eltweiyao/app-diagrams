@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="2009" dy="2295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="803" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-63" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-62">
+        <mxCell id="3UKlnGoY6s24C-co7y54-66" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.1 ERP销售出库单&lt;br&gt;（项目负责人）" vertex="1">
@@ -614,7 +614,7 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.13 ERP付款单&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="1052" y="822" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.2 ERP销售发票&lt;br&gt;（项目负责人）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.1 邮件申请销售发票&lt;br&gt;（商务专员）" vertex="1">
           <mxGeometry height="50" width="135" x="590" y="1356" as="geometry" />
         </mxCell>
       </root>
