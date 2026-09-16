@@ -130,7 +130,7 @@
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.3 钉钉&lt;span style=&quot;color: rgb(17, 31, 44); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, Helvetica, Arial, Verdana, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;项目编号分配及网盘设立审批&lt;/font&gt;&lt;/span&gt;&lt;br&gt;（项目负责人）" vertex="1">
           <mxGeometry height="50" width="110" x="853" y="284" as="geometry" />
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.8 编制项目进度表并召开项目启动会&lt;br&gt;（项目负责人）" vertex="1">
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.7 编制项目进度表并召开项目启动会&lt;br&gt;（项目负责人）" vertex="1">
           <mxGeometry height="50" width="110" x="375" y="274" as="geometry" />
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-39" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RW2Y-8n8kBFQ61qmdBiv-79">
@@ -142,7 +142,7 @@
         <mxCell id="e-DhyNcPMLH01BiicHPO-40" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RW2Y-8n8kBFQ61qmdBiv-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.7 钉钉工时&lt;br&gt;预算审批&lt;br&gt;（项目负责人）" vertex="1">
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.6 钉钉工时&lt;br&gt;预算审批&lt;br&gt;（项目负责人）" vertex="1">
           <mxGeometry height="50" width="110" x="525" y="341" as="geometry" />
         </mxCell>
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-102" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=130;height=30;" value="1.销售合同签订阶段" vertex="1">
@@ -512,7 +512,7 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="让步接收？" vertex="1">
           <mxGeometry height="60" width="90" x="604.5" y="1035" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.6 钉钉硬件成本预算审批&lt;br&gt;（项目负责人）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2.5 钉钉硬件成本预算审批&lt;br&gt;（项目负责人）" vertex="1">
           <mxGeometry height="50" width="110" x="525" y="284" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-7" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-2">
