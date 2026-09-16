@@ -97,8 +97,8 @@
             <mxPoint x="634.6666666666667" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.3 商务澄清函&lt;br&gt;（商务专员）" vertex="1">
-          <mxGeometry height="50" width="110" x="607" y="110" as="geometry" />
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.3 招标文件澄清&lt;br&gt;（商务专员）" vertex="1">
+          <mxGeometry height="50" width="110" x="607" y="130" as="geometry" />
         </mxCell>
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-75" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RW2Y-8n8kBFQ61qmdBiv-14">
           <mxGeometry relative="1" as="geometry" />
