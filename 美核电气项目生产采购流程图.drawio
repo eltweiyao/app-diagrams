@@ -614,7 +614,7 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.13 ERP付款单&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="1052" y="822" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.1 邮件申请销售发票&lt;br&gt;（商务专员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.2 邮件申请销售发票&lt;br&gt;（商务专员）" vertex="1">
           <mxGeometry height="50" width="135" x="590" y="1356" as="geometry" />
         </mxCell>
       </root>
