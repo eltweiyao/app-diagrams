@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-39" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="招标文件&lt;br&gt;有疑问？" vertex="1">
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-39" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="投标&lt;br&gt;有疑问？" vertex="1">
           <mxGeometry height="60" width="90" x="533" y="40" as="geometry" />
         </mxCell>
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-40" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="RW2Y-8n8kBFQ61qmdBiv-39">
@@ -97,7 +97,7 @@
             <mxPoint x="634.6666666666667" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.3 招标文件澄清&lt;br&gt;（商务专员）" vertex="1">
+        <mxCell id="RW2Y-8n8kBFQ61qmdBiv-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.3 投标文件澄清&lt;br&gt;（商务专员）" vertex="1">
           <mxGeometry height="50" width="110" x="607" y="130" as="geometry" />
         </mxCell>
         <mxCell id="RW2Y-8n8kBFQ61qmdBiv-75" edge="1" parent="1" source="RW2Y-8n8kBFQ61qmdBiv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RW2Y-8n8kBFQ61qmdBiv-14">
