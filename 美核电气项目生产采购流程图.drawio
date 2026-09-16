@@ -538,47 +538,46 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-21" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.1 开工检查&lt;br&gt;（生产计划员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.2 开工检查&lt;br&gt;（生产计划员）" vertex="1">
           <mxGeometry height="50" width="135" x="898" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-23" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.2 工单下达&lt;br&gt;（生产计划员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.3 工单下达&lt;br&gt;（生产计划员）" vertex="1">
           <mxGeometry height="50" width="135" x="744" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-57" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.3 生产执行&lt;br&gt;（生产人员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.4 生产执行&lt;br&gt;（生产人员）" vertex="1">
           <mxGeometry height="50" width="135" x="583" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-34" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.5 测试&lt;br&gt;（质管人员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.6 测试&lt;br&gt;（质管人员）" vertex="1">
           <mxGeometry height="50" width="135" x="427" y="1201" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-58" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UKlnGoY6s24C-co7y54-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.4 生产报工&lt;br&gt;（生产人员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.5 生产报工&lt;br&gt;（生产人员）" vertex="1">
           <mxGeometry height="50" width="135" x="427" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-61" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.6 ERP产成品入库单&lt;br&gt;（生产人员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.7 ERP产成品入库单&lt;br&gt;（生产人员）" vertex="1">
           <mxGeometry height="50" width="135" x="427" y="1278" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-46" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UKlnGoY6s24C-co7y54-45" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3UKlnGoY6s24C-co7y54-46" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="3UKlnGoY6s24C-co7y54-47" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1052" y="1065" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.11 ERP进货单&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="890" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.12 采购发票&lt;br&gt;（采购专员）" vertex="1">
-          <mxGeometry height="50" width="135" x="1052" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-52" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-49">
           <mxGeometry relative="1" as="geometry" />
@@ -606,13 +605,10 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="金额≥&lt;br&gt;50000？" vertex="1">
           <mxGeometry height="60" width="90" x="1075.5" y="965" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-48" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="3UKlnGoY6s24C-co7y54-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-51" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.13 钉钉付款申请单&lt;br&gt;审批&lt;br&gt;（采购专员）" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.12 钉钉付款申请单&lt;br&gt;审批&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="1053" y="891" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.13 ERP付款单&lt;br&gt;（采购专员）" vertex="1">
