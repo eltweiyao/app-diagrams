@@ -476,10 +476,10 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-56" edge="1" parent="1" source="mxoPmmnivslhwe2qJwSw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mxoPmmnivslhwe2qJwSw-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.11 ERP采购入库单质管审核通过进行入库&lt;br&gt;（库管）" vertex="1">
+        <mxCell id="mxoPmmnivslhwe2qJwSw-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.11 ERP采购入库单质检审核通过进行入库&lt;br&gt;（库管）" vertex="1">
           <mxGeometry height="50" width="135" x="729.5" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="mxoPmmnivslhwe2qJwSw-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.13 钉钉不合格项审批&lt;br&gt;（质管人员）" vertex="1">
+        <mxCell id="mxoPmmnivslhwe2qJwSw-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.13 钉钉不合格项审批&lt;br&gt;（质检人员）" vertex="1">
           <mxGeometry height="50" width="135" x="582" y="950" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-12" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-11">
