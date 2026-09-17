@@ -555,7 +555,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.12 ERP进货单&lt;br&gt;（采购专员）" vertex="1">
-          <mxGeometry height="50" width="135" x="890" y="1040" as="geometry" />
+          <mxGeometry height="50" width="135" x="909.5" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-52" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-49">
           <mxGeometry relative="1" as="geometry" />
