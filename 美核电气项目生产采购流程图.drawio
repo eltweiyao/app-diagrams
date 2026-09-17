@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="974" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,7 +544,7 @@
         <mxCell id="3UKlnGoY6s24C-co7y54-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.5 生产报工&lt;br&gt;（生产人员）" vertex="1">
           <mxGeometry height="50" width="135" x="427" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="ALF4RwWuCTyRYLco1Nlw-4" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-65">
+        <mxCell id="ALF4RwWuCTyRYLco1Nlw-4" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.857;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="e-DhyNcPMLH01BiicHPO-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="5.7 ERP产成品入库单&lt;br&gt;（生产人员）" vertex="1">
@@ -805,7 +805,7 @@
         <mxCell id="ALF4RwWuCTyRYLco1Nlw-9" edge="1" parent="1" source="ALF4RwWuCTyRYLco1Nlw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ALF4RwWuCTyRYLco1Nlw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALF4RwWuCTyRYLco1Nlw-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.2 ERP销售出库单&lt;br&gt;（项目负责人）" vertex="1">
+        <mxCell id="ALF4RwWuCTyRYLco1Nlw-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.2 ERP销售出库单&lt;br&gt;（商务专员/项目负责人）" vertex="1">
           <mxGeometry height="50" width="135" x="459" y="1307" as="geometry" />
         </mxCell>
         <mxCell id="ALF4RwWuCTyRYLco1Nlw-10" edge="1" parent="1" source="ALF4RwWuCTyRYLco1Nlw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-65">
