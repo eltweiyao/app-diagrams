@@ -455,7 +455,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mxoPmmnivslhwe2qJwSw-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.9 线下合同签订&lt;br&gt;（采购专员）" vertex="1">
+        <mxCell id="mxoPmmnivslhwe2qJwSw-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.9 采购合同签订&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="879" y="858" as="geometry" />
         </mxCell>
         <mxCell id="mxoPmmnivslhwe2qJwSw-39" edge="1" parent="1" source="mxoPmmnivslhwe2qJwSw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mxoPmmnivslhwe2qJwSw-38" value="是">
@@ -796,11 +796,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ALF4RwWuCTyRYLco1Nlw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="4.5 固定资产请购&lt;br&gt;（需求部门）" vertex="1">
-          <mxGeometry height="50" width="135" x="346.5" y="690" as="geometry" />
-        </mxCell>
-        <mxCell id="ALF4RwWuCTyRYLco1Nlw-2" edge="1" parent="1" source="ALF4RwWuCTyRYLco1Nlw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="mxoPmmnivslhwe2qJwSw-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ALF4RwWuCTyRYLco1Nlw-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="mxoPmmnivslhwe2qJwSw-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
