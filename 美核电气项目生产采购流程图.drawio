@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="817" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,7 +578,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3UKlnGoY6s24C-co7y54-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="金额≥&lt;br&gt;50000？" vertex="1">
+        <mxCell id="3UKlnGoY6s24C-co7y54-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="采购金额≥&lt;br&gt;50000？" vertex="1">
           <mxGeometry height="60" width="90" x="1075.5" y="965" as="geometry" />
         </mxCell>
         <mxCell id="3UKlnGoY6s24C-co7y54-51" edge="1" parent="1" source="3UKlnGoY6s24C-co7y54-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-50">
