@@ -323,7 +323,7 @@
         <mxCell id="e-DhyNcPMLH01BiicHPO-74" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="e-DhyNcPMLH01BiicHPO-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-76" connectable="0" parent="e-DhyNcPMLH01BiicHPO-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="生产计划员&lt;br&gt;发起&lt;div&gt;机械原材料&lt;/div&gt;" vertex="1">
+        <mxCell id="e-DhyNcPMLH01BiicHPO-76" connectable="0" parent="e-DhyNcPMLH01BiicHPO-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="生产计划员&lt;br&gt;发起&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;机械&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.245" as="geometry">
             <mxPoint x="6" as="offset" />
           </mxGeometry>
