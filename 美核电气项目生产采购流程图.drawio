@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="1703" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
         <mxCell id="z_bA0CKWxz0TVHaRNotO-41" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z_bA0CKWxz0TVHaRNotO-55" connectable="0" parent="z_bA0CKWxz0TVHaRNotO-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="自产成熟项目设计已固化&lt;br&gt;直接准备走后续生产" vertex="1">
+        <mxCell id="z_bA0CKWxz0TVHaRNotO-55" connectable="0" parent="z_bA0CKWxz0TVHaRNotO-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="自产成熟项目" vertex="1">
           <mxGeometry relative="1" x="0.2894" y="1" as="geometry">
             <mxPoint x="20" y="-2" as="offset" />
           </mxGeometry>
@@ -260,12 +260,17 @@
         <mxCell id="z_bA0CKWxz0TVHaRNotO-53" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z_bA0CKWxz0TVHaRNotO-54" connectable="0" parent="z_bA0CKWxz0TVHaRNotO-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非自产项目库存不足&lt;br&gt;商务专员直接请购" vertex="1">
+        <mxCell id="z_bA0CKWxz0TVHaRNotO-54" connectable="0" parent="z_bA0CKWxz0TVHaRNotO-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非自产项目" vertex="1">
           <mxGeometry relative="1" x="0.5089" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-58" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="库存充足？" vertex="1">
+        <mxCell id="z_bA0CKWxz0TVHaRNotO-56" connectable="0" parent="z_bA0CKWxz0TVHaRNotO-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.893" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-DhyNcPMLH01BiicHPO-58" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="是否&lt;br&gt;库存充足？" vertex="1">
           <mxGeometry height="60" width="90" x="297" y="570" as="geometry" />
         </mxCell>
         <mxCell id="ALF4RwWuCTyRYLco1Nlw-7" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ALF4RwWuCTyRYLco1Nlw-3">
