@@ -805,16 +805,26 @@
         <mxCell id="M3eVzr8qQ0VJr4nmltOw-91" edge="1" parent="1" source="M3eVzr8qQ0VJr4nmltOw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3UKlnGoY6s24C-co7y54-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z_bA0CKWxz0TVHaRNotO-5" connectable="0" parent="M3eVzr8qQ0VJr4nmltOw-91" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.2619" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="M3eVzr8qQ0VJr4nmltOw-92" edge="1" parent="1" source="M3eVzr8qQ0VJr4nmltOw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M3eVzr8qQ0VJr4nmltOw-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="526.52" y="1190" />
-              <mxPoint x="855.48" y="1190" />
+              <mxPoint x="531.52" y="1190" />
+              <mxPoint x="855.52" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M3eVzr8qQ0VJr4nmltOw-81" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="需要第三方&lt;br&gt;试验？" vertex="1">
-          <mxGeometry height="60" width="90" x="481.5" y="1199" as="geometry" />
+        <mxCell id="z_bA0CKWxz0TVHaRNotO-4" connectable="0" parent="M3eVzr8qQ0VJr4nmltOw-92" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.7052" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M3eVzr8qQ0VJr4nmltOw-81" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="是否&lt;br&gt;需要第三方试验&lt;br&gt;或计量？" vertex="1">
+          <mxGeometry height="60" width="100" x="481.5" y="1199" as="geometry" />
         </mxCell>
         <mxCell id="ALF4RwWuCTyRYLco1Nlw-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.2 ERP销售出库单&lt;br&gt;（商务专员/项目负责人）" vertex="1">
           <mxGeometry height="50" width="135" x="459" y="1307" as="geometry" />
