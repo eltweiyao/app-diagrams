@@ -320,7 +320,7 @@
         <mxCell id="e-DhyNcPMLH01BiicHPO-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.1 钉钉发货通知单&lt;br&gt;（项目负责人）" vertex="1">
           <mxGeometry height="50" width="135" x="292" y="1307" as="geometry" />
         </mxCell>
-        <mxCell id="e-DhyNcPMLH01BiicHPO-74" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e-DhyNcPMLH01BiicHPO-67">
+        <mxCell id="e-DhyNcPMLH01BiicHPO-74" edge="1" parent="1" source="e-DhyNcPMLH01BiicHPO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="e-DhyNcPMLH01BiicHPO-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e-DhyNcPMLH01BiicHPO-76" connectable="0" parent="e-DhyNcPMLH01BiicHPO-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="生产计划员&lt;br&gt;发起&lt;div&gt;机械原材料&lt;/div&gt;" vertex="1">
