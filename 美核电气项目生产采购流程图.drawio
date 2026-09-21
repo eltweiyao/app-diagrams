@@ -1049,6 +1049,11 @@
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-140" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-185" connectable="0" parent="e1xR5HmuM2-OnzUWnKM5-140" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="自产项目" vertex="1">
+          <mxGeometry relative="1" x="-0.8998" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-183" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1057,7 +1062,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1xR5HmuM2-OnzUWnKM5-184" connectable="0" parent="e1xR5HmuM2-OnzUWnKM5-183" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非自产项目&lt;br&gt;项目负责人直接通知&lt;br&gt;商务专员采购" vertex="1">
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-184" connectable="0" parent="e1xR5HmuM2-OnzUWnKM5-183" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非自产项目&lt;br&gt;项目负责人直接通知&lt;br&gt;商务专员请购" vertex="1">
           <mxGeometry relative="1" x="-0.4721" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1108,11 +1113,10 @@
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-174" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="已入库发现？" vertex="1">
           <mxGeometry height="60" width="90" x="247.00000000000003" y="3201" as="geometry" />
         </mxCell>
-        <mxCell id="e1xR5HmuM2-OnzUWnKM5-182" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e1xR5HmuM2-OnzUWnKM5-181" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="非自产项目&lt;br&gt;商务专员直接请购" vertex="1">
-          <mxGeometry height="60" width="100" x="310" y="2474" as="geometry" />
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-182" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="2504" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
