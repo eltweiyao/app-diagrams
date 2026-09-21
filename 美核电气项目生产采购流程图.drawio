@@ -996,7 +996,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="15 ERP采购退货单&lt;br&gt;（库管）" vertex="1">
-          <mxGeometry height="50" width="135" x="70" y="3206" as="geometry" />
+          <mxGeometry height="50" width="135" x="224.5" y="3294" as="geometry" />
         </mxCell>
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-103" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="e1xR5HmuM2-OnzUWnKM5-100">
           <mxGeometry relative="1" as="geometry" />
@@ -1084,11 +1084,11 @@
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;dashed=1;dashPattern=8 8;" value="11. 发货前预验收&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="497.5" y="2939" as="geometry" />
         </mxCell>
-        <mxCell id="e1xR5HmuM2-OnzUWnKM5-177" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-102">
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-179" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e1xR5HmuM2-OnzUWnKM5-178" connectable="0" parent="e1xR5HmuM2-OnzUWnKM5-177" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
-          <mxGeometry relative="1" x="-0.3033" as="geometry">
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-180" connectable="0" parent="e1xR5HmuM2-OnzUWnKM5-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3949" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
