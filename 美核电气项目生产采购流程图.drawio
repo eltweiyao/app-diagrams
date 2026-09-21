@@ -1049,6 +1049,19 @@
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-140" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-183" edge="1" parent="1" source="e1xR5HmuM2-OnzUWnKM5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e1xR5HmuM2-OnzUWnKM5-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2140" />
+              <mxPoint x="410" y="2504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1xR5HmuM2-OnzUWnKM5-184" connectable="0" parent="e1xR5HmuM2-OnzUWnKM5-183" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非自产项目&lt;br&gt;项目负责人直接通知&lt;br&gt;商务专员采购" vertex="1">
+          <mxGeometry relative="1" x="-0.4721" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e1xR5HmuM2-OnzUWnKM5-119" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="设计固化" vertex="1">
           <mxGeometry height="60" width="100" x="515" y="2110" as="geometry" />
         </mxCell>
