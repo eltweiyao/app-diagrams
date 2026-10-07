@@ -1420,7 +1420,7 @@
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="P09生产计划是否完成？" vertex="1">
           <mxGeometry height="80" width="120" x="2673.75" y="2722" as="geometry" />
         </mxCell>
-        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P12残余处置后整单中止&lt;br&gt;（生产计划员/财务人员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P12残余处置后中止执行&lt;br&gt;（生产计划员/财务人员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="147.5" x="2509" y="2842" as="geometry" />
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-36" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-33">
@@ -1478,7 +1478,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P14变更评估及&lt;br&gt;原单/新单处置&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P14变更评估及&lt;br&gt;原单/接续单处置&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="147.5" x="2436.25" y="2492" as="geometry" />
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-61" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-51">
@@ -1489,6 +1489,175 @@
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P04生产加工单审核&lt;br&gt;（技术组长/技术经理）&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="147.5" x="2542.5" y="2272" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-75" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C01提出变更&lt;br&gt;（项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2968" y="2087" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-76" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C02评估受影响加工单&lt;br&gt;（项目负责人/项目经理）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3164" y="2087" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-77" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C03核对已入库、已领料、在制、采购及工序&lt;br&gt;（项目负责人/项目经理）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3344" y="2087" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-78" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-89" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.8459" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-82" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-90" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.4535" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-67" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="C04是否已有下游单据？" vertex="1">
+          <mxGeometry height="80" width="120" x="3547" y="2072" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-83" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-115" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3811" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-85" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-68" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="C06个别材料变更且未领料？" vertex="1">
+          <mxGeometry height="80" width="120" x="3735.75" y="2173" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C05驳回或弃审后修改原单&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;重新审核&lt;br&gt;（制单人）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3722" y="2027" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-84" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C07原单变更视情况升级BOM小版本&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); caret-color: light-dark(rgb(34, 34, 34), rgb(208, 208, 208)); white-space: break-spaces; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（制单人）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3533.25" y="2188" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-86" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C08处理退料、退库、转用或成本变更&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;（生产人员/财务人员）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3533.25" y="2284" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-87" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C09新建生产加工单并关联旧单&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3344" y="2284" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-88" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C10审核并阻止旧单重复执行&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;（审核人/制单人）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3164" y="2234" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C11旧单结单或中止&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2968" y="2234" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-116" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C01提出变更&lt;br&gt;（项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3190" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-118" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C02评估受影响加工单&lt;br&gt;（项目负责人/项目经理）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3386" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-120" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C03核对已入库、已领料、在制、采购及工序&lt;br&gt;（项目负责人/项目经理）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3566" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-122" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-123" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.8459" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-124" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-125" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-124" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.4535" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-126" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="C04是否已有下游单据？" vertex="1">
+          <mxGeometry height="80" width="120" x="3769" y="2475" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-142" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-143" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-142" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="仅个别物料变更" vertex="1">
+          <mxGeometry relative="1" x="-0.6886" y="-1" as="geometry">
+            <mxPoint x="26" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-145" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-146" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-145" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BOM大版本号变更&lt;br&gt;且未完工的产品&lt;br&gt;可用于变更后的生产" vertex="1">
+          <mxGeometry relative="1" x="-0.0648" y="2" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-148" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-149" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-148" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BOM大版本变更&lt;div&gt;未生产或未完工的产品&lt;br&gt;无法用于变更后的生产&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0546" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-130" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="C06根据变更情况判断？" vertex="1">
+          <mxGeometry height="80" width="120" x="3957.75" y="2576" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C05驳回或弃审后修改原单&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;重新审核&lt;br&gt;（制单人）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3944" y="2430" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C07原单变更视情况升级BOM小版本&lt;br/&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); caret-color: light-dark(rgb(34, 34, 34), rgb(208, 208, 208)); white-space: break-spaces; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（制单人）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="4180" y="2591" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-153" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C10根据升版后的BOM变更升班前的加工单&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); caret-color: light-dark(rgb(34, 34, 34), rgb(208, 208, 208)); white-space: break-spaces; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（制单人）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3944" y="2722" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-151" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.949;entryY=0.483;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C08新建升版产品加工单&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); caret-color: light-dark(rgb(34, 34, 34), rgb(208, 208, 208)); white-space: break-spaces; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（制单人）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3667" y="2591" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C09中止原生产加工单&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); caret-color: light-dark(rgb(34, 34, 34), rgb(208, 208, 208)); white-space: break-spaces; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（财务人员）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3470" y="2592" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;C11产成品入库转换物料编码&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); caret-color: light-dark(rgb(34, 34, 34), rgb(208, 208, 208)); white-space: break-spaces; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;（入库单制单人）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="3755.25" y="2722" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
