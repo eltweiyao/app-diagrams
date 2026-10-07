@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="2043" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1345,6 +1345,150 @@
         </mxCell>
         <mxCell id="2JmnDjiIaZZZuYUU7AU5-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="生产人员发起&lt;br&gt;产成品入库单" vertex="1">
           <mxGeometry height="60" width="120" x="1800" y="3020" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-44" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P01需求确认&lt;br&gt;（项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2542.5" y="1995" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-45" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P02BOM确认&lt;br&gt;（项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2542.5" y="2092" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-60" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P03生产加工单创建&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2542.5" y="2182" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-47" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P04齐套分析及缺料采购&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2660" y="2362" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-48" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P05按单领料/领退补料&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2660" y="2452" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-49" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P06生产、派工/报工、工序流转&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2660" y="2542" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-50" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P07产成品/半成品入库&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2660" y="2632" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-27" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-22">
+          <mxGeometry relative="1" x="-0.0772" as="geometry">
+            <Array as="points">
+              <mxPoint x="2870" y="2762" />
+              <mxPoint x="2870" y="2387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-28" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否，继续生产" vertex="1">
+          <mxGeometry relative="1" x="-0.8882" y="-1" as="geometry">
+            <mxPoint x="36" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-40" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-43" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否，取消余量" vertex="1">
+          <mxGeometry relative="1" x="-0.4213" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-41" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-42" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3091" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="P08计划是否完成？" vertex="1">
+          <mxGeometry height="80" width="120" x="2673.75" y="2722" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P11残余处置后整单中止&lt;br&gt;（生产计划员/财务人员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2509" y="2842" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-36" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-37" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.3439" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-38" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="P09系统自动完工？" vertex="1">
+          <mxGeometry height="80" width="120" x="2674" y="2842" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-39" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P09.1手工完工&lt;br&gt;（生产计划员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2660.25" y="2957" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P10结单复核&lt;br&gt;（生产计划员/财务人员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2660.25" y="3042" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-53" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-56" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.2204" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-57" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2620" y="2402" />
+              <mxPoint x="2620" y="2387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-58" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.7145" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="P12是否发生变更？" vertex="1">
+          <mxGeometry height="80" width="120" x="2450" y="2362" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-54" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2620" y="2517" />
+              <mxPoint x="2620" y="2387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P13变更评估及&lt;br/&gt;原单/新单处置&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2436.25" y="2492" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-61" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-62" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P03生产加工单审核&lt;br&gt;（技术组长/技术经理）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="147.5" x="2542.5" y="2272" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
