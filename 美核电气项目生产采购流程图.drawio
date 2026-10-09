@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="1419" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1373,19 +1373,19 @@
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-48" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P06按单领料/领退补料&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P06按单领料/领退补料&lt;br&gt;（生产计划员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="147.5" x="2660" y="2452" as="geometry" />
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-49" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P07生产、派工/报工、工序流转&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P07生产、派工/报工、工序流转&lt;br&gt;（生产计划员/生产人员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="147.5" x="2660" y="2542" as="geometry" />
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-50" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P08产成品/半成品入库&lt;br&gt;（项目经理/项目负责人）&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); white-space-collapse: break-spaces; background-color: rgb(255, 255, 255);&quot;&gt;P08产成品/半成品入库&lt;br&gt;（生产计划员）&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="147.5" x="2660" y="2632" as="geometry" />
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-27" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-22">
@@ -1433,6 +1433,11 @@
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-38" edge="1" parent="1" source="Tu0xtBnJMnbFlSeYWF5i-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Tu0xtBnJMnbFlSeYWF5i-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu0xtBnJMnbFlSeYWF5i-154" connectable="0" parent="Tu0xtBnJMnbFlSeYWF5i-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.8423" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tu0xtBnJMnbFlSeYWF5i-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="P10系统自动完工？" vertex="1">
           <mxGeometry height="80" width="120" x="2674" y="2842" as="geometry" />
