@@ -2004,19 +2004,13 @@
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="7 供应商询价&lt;br&gt;（采购专员）" vertex="1">
           <mxGeometry height="50" width="135" x="1062.5" y="2560" as="geometry" />
         </mxCell>
-        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-96" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-98">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="937.8333333333335" y="2560" as="targetPoint" />
+        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-96" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-92">
+          <mxGeometry relative="1" x="-0.7641" as="geometry">
+            <mxPoint x="937.5" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.1 U9C 新增供应商&lt;br&gt;（采购专员）" vertex="1">
+        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6 U9C 新增供应商&lt;br&gt;（采购专员/质管人员）" vertex="1">
           <mxGeometry height="50" width="135" x="870" y="2465" as="geometry" />
-        </mxCell>
-        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-99" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="6.2 U9C 审核供应商&lt;br&gt;（质管专员）" vertex="1">
-          <mxGeometry height="50" width="135" x="870" y="2560" as="geometry" />
         </mxCell>
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-103" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-101">
           <mxGeometry relative="1" as="geometry" />
@@ -2259,7 +2253,7 @@
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-202" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-204" connectable="0" parent="7fYZQ4Z_cINZgaKdn6CL-202" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BOM中&lt;br&gt;物料变化" vertex="1">
+        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-204" connectable="0" parent="7fYZQ4Z_cINZgaKdn6CL-202" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BOM或销售订单变化" vertex="1">
           <mxGeometry relative="1" x="-0.4393" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
