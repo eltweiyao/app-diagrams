@@ -2259,8 +2259,8 @@
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-202" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-203" connectable="0" parent="7fYZQ4Z_cINZgaKdn6CL-202" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
-          <mxGeometry relative="1" x="-0.9071" y="1" as="geometry">
+        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-204" connectable="0" parent="7fYZQ4Z_cINZgaKdn6CL-202" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BOM中&lt;br&gt;物料变化" vertex="1">
+          <mxGeometry relative="1" x="-0.4393" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
