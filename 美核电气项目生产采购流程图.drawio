@@ -1974,6 +1974,9 @@
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-86" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-206" edge="1" parent="1" source="7fYZQ4Z_cINZgaKdn6CL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7fYZQ4Z_cINZgaKdn6CL-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="3 U9C MRP运算&lt;br&gt;（项目专员）" vertex="1">
           <mxGeometry height="50" width="110" x="1075" y="2250" as="geometry" />
         </mxCell>
@@ -2297,6 +2300,9 @@
           <mxGeometry relative="1" x="-0.3915" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7fYZQ4Z_cINZgaKdn6CL-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="U9C 生产订单&lt;br&gt;（项目专员）" vertex="1">
+          <mxGeometry height="50" width="110" x="1241" y="2365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
