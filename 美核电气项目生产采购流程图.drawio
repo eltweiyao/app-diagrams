@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="3jgwlvnL7noGOfmphYWF">
-    <mxGraphModel dx="2043" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2303,6 +2303,167 @@
         </mxCell>
         <mxCell id="7fYZQ4Z_cINZgaKdn6CL-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="U9C 生产订单&lt;br&gt;（项目专员）" vertex="1">
           <mxGeometry height="50" width="110" x="1241" y="2365" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-5" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-8" connectable="0" parent="wOAEE-uGOwAepfP6DGor-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="生成计划订单" vertex="1">
+          <mxGeometry relative="1" x="-0.2174" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="开始&lt;br&gt;（&lt;span style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;MRP运算完成&lt;/span&gt;）" vertex="1">
+          <mxGeometry height="50" width="100" x="2934" y="3264" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-6" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;entryPerimeter=0;" target="wOAEE-uGOwAepfP6DGor-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2984" y="3456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.核实采购需求正确性&lt;br&gt;包括需求数量、日期项目、物料信息" vertex="1">
+          <mxGeometry height="50" width="120" x="2924" y="3360" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-23" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-25" connectable="0" parent="wOAEE-uGOwAepfP6DGor-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.3624" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-27" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2983.9999999999995" y="3570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-60" connectable="0" parent="wOAEE-uGOwAepfP6DGor-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3045" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="需求是否正确？" vertex="1">
+          <mxGeometry height="65" width="100" x="2934" y="3453" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.1暂缓释放并通知需求人调整单据" vertex="1">
+          <mxGeometry height="50" width="120" x="2764.25" y="3460.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-24" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-30" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-29">
+          <mxGeometry relative="1" x="-0.6758" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-31" connectable="0" parent="wOAEE-uGOwAepfP6DGor-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.1711" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-28" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="是否有&lt;br&gt;跨项目余料或呆滞&lt;br&gt;可用？" vertex="1">
+          <mxGeometry height="65" width="110" x="2929" y="3570" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-70" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.2项目经理发起库存调拨单转到项目库存" vertex="1">
+          <mxGeometry height="50" width="120" x="2924" y="3692" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-72" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-73" connectable="0" parent="wOAEE-uGOwAepfP6DGor-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.3858" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-32" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;div&gt;&lt;div&gt;复核后&lt;br&gt;是否仍有采购缺口？&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="100" x="2934" y="3862" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="2测算计划/最晚请购释放日&lt;div&gt;倒推：最晚释放日=需求日-请购采购周期-质检期-冗余&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="151" x="2909" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-47" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2984" y="4159" />
+              <mxPoint x="2810" y="4159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-61" connectable="0" parent="wOAEE-uGOwAepfP6DGor-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="具备条件 已到计划/最晚释放日" vertex="1">
+          <mxGeometry relative="1" x="0.7575" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-48" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-62" connectable="0" parent="wOAEE-uGOwAepfP6DGor-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="具备条件未到计划/最晚释放日" vertex="1">
+          <mxGeometry relative="1" x="0.0586" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-49" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2984" y="4159" />
+              <mxPoint x="3154" y="4159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-66" connectable="0" parent="wOAEE-uGOwAepfP6DGor-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="尚不具备释放条件" vertex="1">
+          <mxGeometry relative="1" x="0.7654" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="3判定释放条件和优先级&lt;br&gt;对比当前日期与释放日期" vertex="1">
+          <mxGeometry height="50" width="151" x="2909" y="4089" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-63" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="3.2按计划释放" vertex="1">
+          <mxGeometry height="50" width="120" x="2924.5" y="4202" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-64" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="wOAEE-uGOwAepfP6DGor-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2980.0000000000005" y="4309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="3.1立即释放" vertex="1">
+          <mxGeometry height="50" width="120" x="2750" y="4202" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="3.3暂缓释放 记录原因及复核时间必要时提示需求人交期风险" vertex="1">
+          <mxGeometry height="50" width="120" x="3094" y="4202" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="结束" vertex="1">
+          <mxGeometry height="50" width="100" x="2934" y="4310" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-65" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="1.3更新供需并复核计划订单数量" vertex="1">
+          <mxGeometry height="50" width="120" x="2924" y="3777" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-71" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-74" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-50">
+          <mxGeometry relative="1" x="0.166" as="geometry">
+            <Array as="points">
+              <mxPoint x="2710" y="3894.5" />
+              <mxPoint x="2710" y="4335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-75" connectable="0" parent="wOAEE-uGOwAepfP6DGor-74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.8875" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wOAEE-uGOwAepfP6DGor-77" edge="1" parent="1" source="wOAEE-uGOwAepfP6DGor-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="wOAEE-uGOwAepfP6DGor-41">
+          <mxGeometry relative="1" x="-0.7895" as="geometry">
+            <mxPoint x="2984.5" y="4065" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
